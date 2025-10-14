@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "description": "A simple npm package providing country codes, names, and flags",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "types": "index.d.ts",
+"scripts": {
+  "test": "jest"
+},
   "keywords": [
     "country",
     "code",
     "flag",
     "international"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "shodorsonnath <shodorsonnath@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/shodorsonnath/country-code-data/issues"
   },
-  "homepage": "https://github.com/shodorsonnath/country-code-data#readme"
+  "homepage": "https://github.com/shodorsonnath/country-code-data#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
