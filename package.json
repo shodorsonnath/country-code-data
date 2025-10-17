@@ -1,18 +1,38 @@
 {
   "name": "country-code-data",
-  "version": "1.0.0",
-  "description": "A simple npm package providing country codes, names, and flags",
+  "version": "1.1.0",
+  "description": "A complete and lightweight dataset of all countries with country names, ISO codes, phone codes, and flag image URLs — perfect for forms, selectors, or international apps.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "country",
-    "code",
-    "flag",
-    "international"
+    "country-code",
+    "country-code-data",
+    "country list",
+    "country data",
+    "phone code",
+    "international code",
+    "iso code",
+    "country json",
+    "flag data",
+    "world country data",
+    "international calling code",
+    "country info",
+    "country selector",
+    "country api",
+    "country data npm",
+    "country-code npm",
+    "country list json",
+    "iso country list"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": {
+    "name": "Shodorson Nath",
+    "email": "shodorsonnath@gmail.com",
+    "url": "https://github.com/shodorsonnath"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -21,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/shodorsonnath/country-code-data/issues"
   },
-  "homepage": "https://github.com/shodorsonnath/country-code-data#readme"
+  "homepage": "https://github.com/shodorsonnath/country-code-data#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
