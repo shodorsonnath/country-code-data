@@ -59,6 +59,8 @@ console.log(countryByCode); // United Kingdom
 import countryData from "country-code-data";
 
 export default function CountrySelect() {
+const countries = countryData.getAllCountries(); 
+
   return (
     <select>
       {countryData.map(country => (
