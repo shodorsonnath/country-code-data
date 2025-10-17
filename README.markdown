@@ -1,8 +1,20 @@
-# Country Code Data
+# 🌍 country-code-data
 
-A simple npm package providing a list of countries with their names, short names, phone codes, and flag URLs.
+**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, and **flag image URLs**.  
+It’s perfect for developers building **forms**, **country selectors**, **phone input fields**, or **global applications** that need standardized country information.
 
-## Installation
+
+## 🚀 Why use country-code-data?
+
+✅ 200+ countries included  
+✅ ISO 3166 country codes  
+✅ International calling/phone codes  
+✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)  
+✅ Simple JSON structure — no dependencies  
+✅ Works in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Next.js**, and **Vue**
+
+
+## 📦 Installation
 
 Install the package using npm:
 
@@ -10,7 +22,7 @@ Install the package using npm:
 npm install country-code-data
 ```
 
-## Usage
+## 🧩 Usage Examples
 
 ```javascript
 const countryData = require('country-code-data');
@@ -36,15 +48,69 @@ const countryByCode = countryData.getCountryByCode('+44');
 console.log(countryByCode); // United Kingdom
 ```
 
-## Data Structure
 
-Each country object contains:
+### 1️⃣ Create a Country Dropdown (React)
+```jsx
+import countryData from "country-code-data";
 
-- `id`: Unique identifier (number)
-- `name`: Full country name (string)
-- `shortName`: Two-letter country code (string)
-- `code`: Phone country code (string)
-- `flag`: URL to the country flag image (string)
+export default function CountrySelect() {
+  return (
+    <select>
+      {countryData.map(country => (
+        <option key={country.shortName} value={country.shortName}>
+          {country.name} ({country.code})
+        </option>
+      ))}
+    </select>
+  );
+}
+```
+
+
+## 📊 Data Structure
+
+Each country entry looks like this:
+```json
+{
+  "id": 1,
+  "name": "Afghanistan",
+  "shortName": "AF",
+  "code": "+93",
+  "flag": "https://flagcdn.com/w40/af.png"
+}
+```
+
+Fields:
+| Field | Description |
+|-------|--------------|
+| `id` | Auto-incremented unique ID |
+| `name` | Full country name |
+| `shortName` | ISO 3166-1 alpha-2 code |
+| `code` | International phone calling code |
+| `flag` | URL of the country’s flag image |
+
+
+## 🌐 Use Cases
+
+- 🌎 **Country dropdowns** for web or mobile apps  
+- 📞 **Phone input selectors** with country flags  
+- 💡 **APIs and data services** that require global country info  
+- 🧠 **Educational or data visualization** projects  
+- ⚙️ **Internationalization (i18n)** in apps
+
+
+## ⚡ Performance & Size
+
+- File size: **~35 KB (minified)**  
+- Dependencies: **None**  
+- Format: **Plain JSON**  
+- Compatible with: **ESM & CommonJS**
+
+
+## 🔍 SEO Keywords (for npm & Google)
+
+> country list JSON, country code data, international phone code, ISO country code, flag URL dataset, npm country code, world countries list, country dropdown react, country selector npm, JSON country data, country-code-data npm package
+
 
 ## License
 
