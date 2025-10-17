@@ -107,11 +107,6 @@ Fields:
 - Compatible with: **ESM & CommonJS**
 
 
-## 🔍 SEO Keywords (for npm & Google)
-
-> country list JSON, country code data, international phone code, ISO country code, flag URL dataset, npm country code, world countries list, country dropdown react, country selector npm, JSON country data, country-code-data npm package
-
-
 ## License
 
 MIT
