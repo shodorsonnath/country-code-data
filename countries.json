@@ -2400,10 +2400,16 @@
     }
   },
   {
-    "id": 201,
-    "name": "Zimbabwe",
-    "shortName": "ZW",
-    "code": "+263",
-    "flag": "https://flagcdn.com/w40/zw.png"
+  "id": 201,
+  "name": "Zimbabwe",
+  "shortName": "ZW",
+  "code": "+263",
+  "flag": "https://flagcdn.com/w40/zw.png",
+  "currency": {
+    "code": "ZWL",
+    "name": "Zimbabwean Dollar",
+    "symbol": "Z$"
   }
+}
+
 ]
