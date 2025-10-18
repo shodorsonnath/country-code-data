@@ -1,10 +1,16 @@
-// index.d.ts
+export interface Currency {
+  code: string;
+  name: string;
+  symbol: string;
+}
+
 export interface Country {
   id: number;
   name: string;
   shortName: string;
   code: string;
   flag: string;
+  currency: Currency;
 }
 
 export function getAllCountries(): Country[];

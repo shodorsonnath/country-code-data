@@ -1,6 +1,6 @@
 # 🌍 country-code-data
 
-**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, and **flag image URLs**.  
+**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, **flag image URLs**, and **currency information**.  
 It’s perfect for developers building **forms**, **country selectors**, **phone input fields**, or **global applications** that need standardized country information.
 
 ---
@@ -11,6 +11,7 @@ It’s perfect for developers building **forms**, **country selectors**, **phone
 ✅ ISO 3166 country codes  
 ✅ International calling/phone codes  
 ✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)  
+✅ Currency codes, names, and symbols included
 ✅ Simple JSON structure — no dependencies  
 ✅ Works in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Next.js**, and **Vue**
 
@@ -54,7 +55,7 @@ console.log(countryByCode); // United Kingdom
 
 ---
 
-### 1️⃣ Create a Country Dropdown (React)
+### 1️⃣ Create a Country Dropdown (React/Next.js)
 ```jsx
 import countryData from "country-code-data";
 
