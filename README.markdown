@@ -79,23 +79,33 @@ const countries = countryData.getAllCountries();
 
 Each country entry looks like this:
 ```json
-{
-  "id": 1,
-  "name": "Afghanistan",
-  "shortName": "AF",
-  "code": "+93",
-  "flag": "https://flagcdn.com/w40/af.png"
-}
+  {
+    "id": 14,
+    "name": "Bangladesh",
+    "shortName": "BD",
+    "code": "+880",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "currency": {
+      "code": "BDT",
+      "name": "Bangladeshi Taka",
+      "symbol": "৳"
+    }
+  }
 ```
 
 Fields:
-| Field | Description |
-|-------|--------------|
-| `id` | Auto-incremented unique ID |
-| `name` | Full country name |
-| `shortName` | ISO 3166-1 alpha-2 code |
-| `code` | International phone calling code |
-| `flag` | URL of the country’s flag image |
+| Field       | Description                                           |
+|------------|-------------------------------------------------------|
+| `id`        | Auto-incremented unique ID                           |
+| `name`      | Full country name                                    |
+| `shortName` | ISO 3166-1 alpha-2 code                              |
+| `code`      | International phone calling code                     |
+| `flag`      | URL of the country’s flag image                      |
+| `currency`  | Object containing the country’s currency details:   |
+| &nbsp;&nbsp;&nbsp;&nbsp;`code`   | ISO 4217 currency code (e.g., "BDT")           |
+| &nbsp;&nbsp;&nbsp;&nbsp;`name`   | Full currency name (e.g., "Bangladeshi Taka")|
+| &nbsp;&nbsp;&nbsp;&nbsp;`symbol` | Currency symbol (e.g., "৳")                    |
+
 
 ---
 
@@ -111,7 +121,7 @@ Fields:
 
 ## ⚡ Performance & Size
 
-- File size: **~35 KB (minified)**  
+- File size: **~48 KB (minified)**  
 - Dependencies: **None**  
 - Format: **Plain JSON**  
 - Compatible with: **ESM & CommonJS**
