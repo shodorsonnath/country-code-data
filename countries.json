@@ -9,7 +9,8 @@
       "code": "AFN",
       "name": "Afghan Afghani",
       "symbol": "؋"
-    }
+    },
+    "languages": ["Dari", "Pashto"]
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "code": "ALL",
       "name": "Albanian Lek",
       "symbol": "L"
-    }
+    },
+    "languages": ["Albanian"]
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
       "code": "DZD",
       "name": "Algerian Dinar",
       "symbol": "د.ج"
-    }
+    },
+    "languages": ["Arabic", "Berber"]
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Catalan"]
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
       "code": "AOA",
       "name": "Angolan Kwanza",
       "symbol": "Kz"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 6,
@@ -69,7 +74,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 7,
@@ -81,7 +87,8 @@
       "code": "ARS",
       "name": "Argentine Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 8,
@@ -93,7 +100,8 @@
       "code": "AMD",
       "name": "Armenian Dram",
       "symbol": "֏"
-    }
+    },
+    "languages": ["Armenian"]
   },
   {
     "id": 9,
@@ -105,7 +113,8 @@
       "code": "AUD",
       "name": "Australian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 10,
@@ -117,7 +126,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["German"]
   },
   {
     "id": 11,
@@ -129,7 +139,8 @@
       "code": "AZN",
       "name": "Azerbaijani Manat",
       "symbol": "₼"
-    }
+    },
+    "languages": ["Azerbaijani"]
   },
   {
     "id": 12,
@@ -141,7 +152,8 @@
       "code": "BSD",
       "name": "Bahamian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 13,
@@ -153,7 +165,8 @@
       "code": "BHD",
       "name": "Bahraini Dinar",
       "symbol": ".د.ب"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 14,
@@ -165,7 +178,8 @@
       "code": "BDT",
       "name": "Bangladeshi Taka",
       "symbol": "৳"
-    }
+    },
+    "languages": ["Bengali"]
   },
   {
     "id": 15,
@@ -177,7 +191,8 @@
       "code": "BBD",
       "name": "Barbadian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 16,
@@ -189,7 +204,8 @@
       "code": "BYN",
       "name": "Belarusian Rubles",
       "symbol": "Br"
-    }
+    },
+    "languages": ["Belarusian", "Russian"]
   },
   {
     "id": 17,
@@ -201,7 +217,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Dutch", "French", "German"]
   },
   {
     "id": 18,
@@ -213,7 +230,8 @@
       "code": "BZD",
       "name": "Belize Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 19,
@@ -225,7 +243,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 20,
@@ -237,7 +256,8 @@
       "code": "BTN",
       "name": "Bhutanese Ngultrum",
       "symbol": "Nu."
-    }
+    },
+    "languages": ["Dzongkha"]
   },
   {
     "id": 21,
@@ -249,7 +269,14 @@
       "code": "BOB",
       "name": "Bolivian Boliviano",
       "symbol": "Bs."
-    }
+    },
+    "languages": [
+      "Spanish",
+      "Aymara",
+      "Quechua",
+      "Guaraní",
+      "other indigenous languages"
+    ]
   },
   {
     "id": 22,
@@ -261,7 +288,8 @@
       "code": "BAM",
       "name": "Bosnia-Herzegovina Convertible Mark",
       "symbol": "KM"
-    }
+    },
+    "languages": ["Bosnian", "Croatian", "Serbian"]
   },
   {
     "id": 23,
@@ -273,7 +301,8 @@
       "code": "BWP",
       "name": "Botswanan Pula",
       "symbol": "P"
-    }
+    },
+    "languages": ["English", "Tswana"]
   },
   {
     "id": 24,
@@ -285,7 +314,8 @@
       "code": "BRL",
       "name": "Brazilian Real",
       "symbol": "R$"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 25,
@@ -297,7 +327,8 @@
       "code": "BND",
       "name": "Brunei Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Malay"]
   },
   {
     "id": 26,
@@ -309,7 +340,8 @@
       "code": "BGN",
       "name": "Bulgarian Lev",
       "symbol": "лв"
-    }
+    },
+    "languages": ["Bulgarian"]
   },
   {
     "id": 27,
@@ -321,7 +353,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 28,
@@ -333,7 +366,8 @@
       "code": "BIF",
       "name": "Burundian Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Kirundi", "French", "English"]
   },
   {
     "id": 29,
@@ -345,7 +379,8 @@
       "code": "CVE",
       "name": "Cape Verdean Escudo",
       "symbol": "$"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 30,
@@ -357,7 +392,8 @@
       "code": "KHR",
       "name": "Cambodian Riel",
       "symbol": "៛"
-    }
+    },
+    "languages": ["Khmer"]
   },
   {
     "id": 31,
@@ -369,7 +405,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["English", "French"]
   },
   {
     "id": 32,
@@ -381,7 +418,8 @@
       "code": "CAD",
       "name": "Canadian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English", "French"]
   },
   {
     "id": 33,
@@ -393,7 +431,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French", "Sango"]
   },
   {
     "id": 34,
@@ -405,7 +444,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Arabic", "French"]
   },
   {
     "id": 35,
@@ -417,7 +457,8 @@
       "code": "CLP",
       "name": "Chilean Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 36,
@@ -429,7 +470,8 @@
       "code": "CNY",
       "name": "Chinese Yuan",
       "symbol": "¥"
-    }
+    },
+    "languages": ["Chinese"]
   },
   {
     "id": 37,
@@ -441,7 +483,8 @@
       "code": "COP",
       "name": "Colombian Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 38,
@@ -453,7 +496,8 @@
       "code": "KMF",
       "name": "Comorian Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Comorian", "Arabic", "French"]
   },
   {
     "id": 39,
@@ -465,7 +509,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 40,
@@ -477,7 +522,8 @@
       "code": "CDF",
       "name": "Congolese Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 41,
@@ -489,7 +535,8 @@
       "code": "CRC",
       "name": "Costa Rican Colón",
       "symbol": "₡"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 42,
@@ -501,7 +548,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Croatian"]
   },
   {
     "id": 43,
@@ -513,7 +561,8 @@
       "code": "CUP",
       "name": "Cuban Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 44,
@@ -525,7 +574,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Greek", "Turkish"]
   },
   {
     "id": 45,
@@ -537,7 +587,8 @@
       "code": "CZK",
       "name": "Czech Koruna",
       "symbol": "Kč"
-    }
+    },
+    "languages": ["Czech"]
   },
   {
     "id": 46,
@@ -549,7 +600,8 @@
       "code": "DKK",
       "name": "Danish Krone",
       "symbol": "kr"
-    }
+    },
+    "languages": ["Danish"]
   },
   {
     "id": 47,
@@ -561,7 +613,8 @@
       "code": "DJF",
       "name": "Djiboutian Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Arabic", "French"]
   },
   {
     "id": 48,
@@ -573,7 +626,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 49,
@@ -585,7 +639,8 @@
       "code": "DOP",
       "name": "Dominican Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 50,
@@ -597,7 +652,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 51,
@@ -609,7 +665,8 @@
       "code": "EGP",
       "name": "Egyptian Pound",
       "symbol": "£"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 52,
@@ -621,7 +678,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 53,
@@ -633,7 +691,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Spanish", "French", "Portuguese"]
   },
   {
     "id": 54,
@@ -645,7 +704,8 @@
       "code": "ERN",
       "name": "Eritrean Nakfa",
       "symbol": "Nfk"
-    }
+    },
+    "languages": ["Tigrinya", "Arabic", "English"]
   },
   {
     "id": 55,
@@ -657,7 +717,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Estonian"]
   },
   {
     "id": 56,
@@ -669,7 +730,8 @@
       "code": "SZL",
       "name": "Swazi Lilangeni",
       "symbol": "L"
-    }
+    },
+    "languages": ["English", "Swati"]
   },
   {
     "id": 57,
@@ -681,7 +743,8 @@
       "code": "ETB",
       "name": "Ethiopian Birr",
       "symbol": "Br"
-    }
+    },
+    "languages": ["Amharic"]
   },
   {
     "id": 58,
@@ -693,7 +756,8 @@
       "code": "FJD",
       "name": "Fijian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English", "Fijian", "Fiji Hindi"]
   },
   {
     "id": 59,
@@ -705,7 +769,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Finnish", "Swedish"]
   },
   {
     "id": 60,
@@ -717,7 +782,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 61,
@@ -729,7 +795,8 @@
       "code": "XAF",
       "name": "Central African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 62,
@@ -741,7 +808,8 @@
       "code": "GMD",
       "name": "Gambian Dalasi",
       "symbol": "D"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 63,
@@ -753,7 +821,8 @@
       "code": "GEL",
       "name": "Georgian Lari",
       "symbol": "₾"
-    }
+    },
+    "languages": ["Georgian"]
   },
   {
     "id": 64,
@@ -765,7 +834,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["German"]
   },
   {
     "id": 65,
@@ -777,7 +847,8 @@
       "code": "GHS",
       "name": "Ghanaian Cedi",
       "symbol": "₵"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 66,
@@ -789,7 +860,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Greek"]
   },
   {
     "id": 67,
@@ -801,7 +873,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 68,
@@ -813,7 +886,8 @@
       "code": "GTQ",
       "name": "Guatemalan Quetzal",
       "symbol": "Q"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 69,
@@ -825,7 +899,8 @@
       "code": "GNF",
       "name": "Guinean Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 70,
@@ -837,7 +912,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 71,
@@ -849,7 +925,8 @@
       "code": "GYD",
       "name": "Guyanese Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 72,
@@ -861,7 +938,8 @@
       "code": "HTG",
       "name": "Haitian Gourde",
       "symbol": "G"
-    }
+    },
+    "languages": ["French", "Haitian Creole"]
   },
   {
     "id": 73,
@@ -873,7 +951,8 @@
       "code": "HNL",
       "name": "Honduran Lempira",
       "symbol": "L"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 74,
@@ -885,7 +964,8 @@
       "code": "HUF",
       "name": "Hungarian Forint",
       "symbol": "Ft"
-    }
+    },
+    "languages": ["Hungarian"]
   },
   {
     "id": 75,
@@ -897,7 +977,8 @@
       "code": "ISK",
       "name": "Icelandic Króna",
       "symbol": "kr"
-    }
+    },
+    "languages": ["Icelandic"]
   },
   {
     "id": 76,
@@ -909,7 +990,8 @@
       "code": "INR",
       "name": "Indian Rupee",
       "symbol": "₹"
-    }
+    },
+    "languages": ["Hindi", "English"]
   },
   {
     "id": 77,
@@ -921,7 +1003,8 @@
       "code": "IDR",
       "name": "Indonesian Rupiah",
       "symbol": "Rp"
-    }
+    },
+    "languages": ["Indonesian"]
   },
   {
     "id": 78,
@@ -933,7 +1016,8 @@
       "code": "IRR",
       "name": "Iranian Rial",
       "symbol": "﷼"
-    }
+    },
+    "languages": ["Persian"]
   },
   {
     "id": 79,
@@ -945,7 +1029,8 @@
       "code": "IQD",
       "name": "Iraqi Dinar",
       "symbol": "ع.د"
-    }
+    },
+    "languages": ["Arabic", "Kurdish"]
   },
   {
     "id": 80,
@@ -957,7 +1042,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Irish", "English"]
   },
   {
     "id": 81,
@@ -969,7 +1055,8 @@
       "code": "ILS",
       "name": "Israeli New Shekel",
       "symbol": "₪"
-    }
+    },
+    "languages": ["Hebrew", "Arabic"]
   },
   {
     "id": 82,
@@ -981,7 +1068,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Italian"]
   },
   {
     "id": 83,
@@ -993,7 +1081,8 @@
       "code": "JMD",
       "name": "Jamaican Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 84,
@@ -1005,7 +1094,8 @@
       "code": "JPY",
       "name": "Japanese Yen",
       "symbol": "¥"
-    }
+    },
+    "languages": ["Japanese"]
   },
   {
     "id": 85,
@@ -1017,7 +1107,8 @@
       "code": "JOD",
       "name": "Jordanian Dinar",
       "symbol": "د.ا"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 86,
@@ -1029,7 +1120,8 @@
       "code": "KZT",
       "name": "Kazakhstani Tenge",
       "symbol": "₸"
-    }
+    },
+    "languages": ["Kazakh", "Russian"]
   },
   {
     "id": 87,
@@ -1041,7 +1133,8 @@
       "code": "KES",
       "name": "Kenyan Shilling",
       "symbol": "Sh"
-    }
+    },
+    "languages": ["English", "Swahili"]
   },
   {
     "id": 88,
@@ -1053,7 +1146,8 @@
       "code": "AUD",
       "name": "Australian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English", "Gilbertese"]
   },
   {
     "id": 89,
@@ -1065,7 +1159,8 @@
       "code": "KWD",
       "name": "Kuwaiti Dinar",
       "symbol": "د.ك"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 90,
@@ -1077,7 +1172,8 @@
       "code": "KGS",
       "name": "Kyrgyzstani Som",
       "symbol": "с"
-    }
+    },
+    "languages": ["Kyrgyz", "Russian"]
   },
   {
     "id": 91,
@@ -1089,7 +1185,8 @@
       "code": "LAK",
       "name": "Lao Kip",
       "symbol": "₭"
-    }
+    },
+    "languages": ["Lao"]
   },
   {
     "id": 92,
@@ -1101,7 +1198,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Latvian"]
   },
   {
     "id": 93,
@@ -1113,7 +1211,8 @@
       "code": "LBP",
       "name": "Lebanese Pound",
       "symbol": "ل.ل"
-    }
+    },
+    "languages": ["Arabic", "French"]
   },
   {
     "id": 94,
@@ -1125,7 +1224,8 @@
       "code": "LSL",
       "name": "Lesotho Loti",
       "symbol": "L"
-    }
+    },
+    "languages": ["Sotho", "English"]
   },
   {
     "id": 95,
@@ -1137,7 +1237,8 @@
       "code": "LRD",
       "name": "Liberian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 96,
@@ -1149,7 +1250,8 @@
       "code": "LYD",
       "name": "Libyan Dinar",
       "symbol": "ل.د"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 97,
@@ -1161,7 +1263,8 @@
       "code": "CHF",
       "name": "Swiss Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["German"]
   },
   {
     "id": 98,
@@ -1173,7 +1276,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Lithuanian"]
   },
   {
     "id": 99,
@@ -1185,7 +1289,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["French", "German", "Luxembourgish"]
   },
   {
     "id": 100,
@@ -1197,7 +1302,8 @@
       "code": "MGA",
       "name": "Malagasy Ariary",
       "symbol": "Ar"
-    }
+    },
+    "languages": ["Malagasy", "French"]
   },
   {
     "id": 101,
@@ -1209,7 +1315,8 @@
       "code": "MWK",
       "name": "Malawian Kwacha",
       "symbol": "MK"
-    }
+    },
+    "languages": ["English", "Chewa"]
   },
   {
     "id": 102,
@@ -1221,7 +1328,8 @@
       "code": "MYR",
       "name": "Malaysian Ringgit",
       "symbol": "RM"
-    }
+    },
+    "languages": ["Malay"]
   },
   {
     "id": 103,
@@ -1233,7 +1341,8 @@
       "code": "MVR",
       "name": "Maldivian Rufiyaa",
       "symbol": ".ރ"
-    }
+    },
+    "languages": ["Dhivehi"]
   },
   {
     "id": 104,
@@ -1245,7 +1354,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 105,
@@ -1257,7 +1367,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Maltese", "English"]
   },
   {
     "id": 106,
@@ -1269,7 +1380,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Marshallese", "English"]
   },
   {
     "id": 107,
@@ -1281,7 +1393,8 @@
       "code": "MRU",
       "name": "Mauritanian Ouguiya",
       "symbol": "UM"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 108,
@@ -1293,7 +1406,8 @@
       "code": "MUR",
       "name": "Mauritian Rupee",
       "symbol": "₨"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 109,
@@ -1305,7 +1419,8 @@
       "code": "MXN",
       "name": "Mexican Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 110,
@@ -1317,7 +1432,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 111,
@@ -1329,7 +1445,8 @@
       "code": "MDL",
       "name": "Moldovan Leu",
       "symbol": "L"
-    }
+    },
+    "languages": ["Romanian"]
   },
   {
     "id": 112,
@@ -1341,7 +1458,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 113,
@@ -1353,7 +1471,8 @@
       "code": "MNT",
       "name": "Mongolian Tögrög",
       "symbol": "₮"
-    }
+    },
+    "languages": ["Mongolian"]
   },
   {
     "id": 114,
@@ -1365,7 +1484,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Montenegrin"]
   },
   {
     "id": 115,
@@ -1377,7 +1497,8 @@
       "code": "MAD",
       "name": "Moroccan Dirham",
       "symbol": "د.م."
-    }
+    },
+    "languages": ["Arabic", "Berber"]
   },
   {
     "id": 116,
@@ -1389,7 +1510,8 @@
       "code": "MZN",
       "name": "Mozambican Metical",
       "symbol": "MT"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 117,
@@ -1401,7 +1523,8 @@
       "code": "MMK",
       "name": "Myanmar Kyat",
       "symbol": "K"
-    }
+    },
+    "languages": ["Burmese"]
   },
   {
     "id": 118,
@@ -1413,7 +1536,8 @@
       "code": "NAD",
       "name": "Namibian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 119,
@@ -1425,7 +1549,8 @@
       "code": "AUD",
       "name": "Australian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Nauruan", "English"]
   },
   {
     "id": 120,
@@ -1437,7 +1562,8 @@
       "code": "NPR",
       "name": "Nepalese Rupee",
       "symbol": "₨"
-    }
+    },
+    "languages": ["Nepali"]
   },
   {
     "id": 121,
@@ -1449,7 +1575,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Dutch"]
   },
   {
     "id": 122,
@@ -1461,7 +1588,8 @@
       "code": "NZD",
       "name": "New Zealand Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English", "Māori", "New Zealand Sign Language"]
   },
   {
     "id": 123,
@@ -1473,7 +1601,8 @@
       "code": "NIO",
       "name": "Nicaraguan Córdoba",
       "symbol": "C$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 124,
@@ -1485,7 +1614,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 125,
@@ -1497,7 +1627,8 @@
       "code": "NGN",
       "name": "Nigerian Naira",
       "symbol": "₦"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 126,
@@ -1509,7 +1640,8 @@
       "code": "KPW",
       "name": "North Korean Won",
       "symbol": "₩"
-    }
+    },
+    "languages": ["Korean"]
   },
   {
     "id": 127,
@@ -1521,7 +1653,8 @@
       "code": "MKD",
       "name": "Macedonian Denar",
       "symbol": "ден"
-    }
+    },
+    "languages": ["Macedonian", "Albanian"]
   },
   {
     "id": 128,
@@ -1533,7 +1666,8 @@
       "code": "NOK",
       "name": "Norwegian Krone",
       "symbol": "kr"
-    }
+    },
+    "languages": ["Norwegian Bokmål", "Norwegian Nynorsk", "Sami"]
   },
   {
     "id": 129,
@@ -1545,7 +1679,8 @@
       "code": "OMR",
       "name": "Omani Rial",
       "symbol": "ر.ع."
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 130,
@@ -1557,7 +1692,8 @@
       "code": "PKR",
       "name": "Pakistani Rupee",
       "symbol": "₨"
-    }
+    },
+    "languages": ["English", "Urdu"]
   },
   {
     "id": 131,
@@ -1569,7 +1705,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Palauan", "English"]
   },
   {
     "id": 132,
@@ -1581,7 +1718,8 @@
       "code": "ILS",
       "name": "Israeli New Shekel",
       "symbol": "₪"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 133,
@@ -1593,7 +1731,8 @@
       "code": "PAB",
       "name": "Panamanian Balboa",
       "symbol": "B/."
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 134,
@@ -1605,7 +1744,8 @@
       "code": "PGK",
       "name": "Papua New Guinean Kina",
       "symbol": "K"
-    }
+    },
+    "languages": ["English", "Tok Pisin", "Hiri Motu"]
   },
   {
     "id": 135,
@@ -1617,7 +1757,8 @@
       "code": "PYG",
       "name": "Paraguayan Guarani",
       "symbol": "₲"
-    }
+    },
+    "languages": ["Spanish", "Guaraní"]
   },
   {
     "id": 136,
@@ -1629,7 +1770,8 @@
       "code": "PEN",
       "name": "Peruvian Sol",
       "symbol": "S/."
-    }
+    },
+    "languages": ["Spanish", "Quechua", "Aymara"]
   },
   {
     "id": 137,
@@ -1641,7 +1783,8 @@
       "code": "PHP",
       "name": "Philippine Peso",
       "symbol": "₱"
-    }
+    },
+    "languages": ["Filipino", "English"]
   },
   {
     "id": 138,
@@ -1653,7 +1796,8 @@
       "code": "PLN",
       "name": "Polish Złoty",
       "symbol": "zł"
-    }
+    },
+    "languages": ["Polish"]
   },
   {
     "id": 139,
@@ -1665,7 +1809,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 140,
@@ -1677,7 +1822,8 @@
       "code": "QAR",
       "name": "Qatari Riyal",
       "symbol": "ر.ق"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 141,
@@ -1689,7 +1835,8 @@
       "code": "RON",
       "name": "Romanian Leu",
       "symbol": "lei"
-    }
+    },
+    "languages": ["Romanian"]
   },
   {
     "id": 142,
@@ -1701,7 +1848,8 @@
       "code": "RUB",
       "name": "Russian Rubles",
       "symbol": "₽"
-    }
+    },
+    "languages": ["Russian"]
   },
   {
     "id": 143,
@@ -1713,7 +1861,8 @@
       "code": "RWF",
       "name": "Rwandan Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["Kinyarwanda", "English", "French", "Swahili"]
   },
   {
     "id": 144,
@@ -1725,7 +1874,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 145,
@@ -1737,7 +1887,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 146,
@@ -1749,7 +1900,8 @@
       "code": "XCD",
       "name": "East Caribbean Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 147,
@@ -1761,7 +1913,8 @@
       "code": "WST",
       "name": "Samoan Tala",
       "symbol": "T"
-    }
+    },
+    "languages": ["Samoan", "English"]
   },
   {
     "id": 148,
@@ -1773,7 +1926,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Italian"]
   },
   {
     "id": 149,
@@ -1785,7 +1939,8 @@
       "code": "STN",
       "name": "São Tomé and Príncipe Dobra",
       "symbol": "Db"
-    }
+    },
+    "languages": ["Portuguese"]
   },
   {
     "id": 150,
@@ -1797,7 +1952,8 @@
       "code": "SAR",
       "name": "Saudi Riyal",
       "symbol": "ر.س"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 151,
@@ -1809,7 +1965,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 152,
@@ -1821,7 +1978,8 @@
       "code": "RSD",
       "name": "Serbian Dinar",
       "symbol": "дин."
-    }
+    },
+    "languages": ["Serbian"]
   },
   {
     "id": 153,
@@ -1833,7 +1991,8 @@
       "code": "SCR",
       "name": "Seychellois Rupee",
       "symbol": "₨"
-    }
+    },
+    "languages": ["English", "French", "Seychellois Creole"]
   },
   {
     "id": 154,
@@ -1845,7 +2004,8 @@
       "code": "SLE",
       "name": "Sierra Leonean Leone",
       "symbol": "Le"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 155,
@@ -1857,7 +2017,8 @@
       "code": "SGD",
       "name": "Singapore Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English", "Malay", "Mandarin Chinese", "Tamil"]
   },
   {
     "id": 156,
@@ -1869,7 +2030,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Slovak"]
   },
   {
     "id": 157,
@@ -1881,7 +2043,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Slovenian"]
   },
   {
     "id": 158,
@@ -1893,7 +2056,8 @@
       "code": "SBD",
       "name": "Solomon Islands Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 159,
@@ -1905,7 +2069,8 @@
       "code": "SOS",
       "name": "Somali Shilling",
       "symbol": "Sh"
-    }
+    },
+    "languages": ["Somali", "Arabic"]
   },
   {
     "id": 160,
@@ -1917,7 +2082,20 @@
       "code": "ZAR",
       "name": "South African Rand",
       "symbol": "R"
-    }
+    },
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Ndebele",
+      "Northern Sotho",
+      "Sotho",
+      "Swazi",
+      "Tsonga",
+      "Tswana",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ]
   },
   {
     "id": 161,
@@ -1929,7 +2107,8 @@
       "code": "KRW",
       "name": "South Korean Won",
       "symbol": "₩"
-    }
+    },
+    "languages": ["Korean"]
   },
   {
     "id": 162,
@@ -1941,7 +2120,8 @@
       "code": "SSP",
       "name": "South Sudanese Pound",
       "symbol": "£"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 163,
@@ -1953,7 +2133,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 164,
@@ -1965,7 +2146,8 @@
       "code": "LKR",
       "name": "Sri Lankan Rupee",
       "symbol": "₨"
-    }
+    },
+    "languages": ["Sinhala", "Tamil"]
   },
   {
     "id": 165,
@@ -1977,7 +2159,8 @@
       "code": "SDG",
       "name": "Sudanese Pound",
       "symbol": "£"
-    }
+    },
+    "languages": ["Arabic", "English"]
   },
   {
     "id": 166,
@@ -1989,7 +2172,8 @@
       "code": "SRD",
       "name": "Surinamese Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Dutch"]
   },
   {
     "id": 167,
@@ -2001,7 +2185,8 @@
       "code": "SEK",
       "name": "Swedish Krona",
       "symbol": "kr"
-    }
+    },
+    "languages": ["Swedish"]
   },
   {
     "id": 168,
@@ -2013,7 +2198,8 @@
       "code": "CHF",
       "name": "Swiss Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["German", "French", "Italian", "Romansh"]
   },
   {
     "id": 169,
@@ -2025,7 +2211,8 @@
       "code": "SYP",
       "name": "Syrian Pound",
       "symbol": "£"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 170,
@@ -2037,7 +2224,8 @@
       "code": "TWD",
       "name": "New Taiwan Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Chinese"]
   },
   {
     "id": 171,
@@ -2049,7 +2237,8 @@
       "code": "TJS",
       "name": "Tajikistani Somoni",
       "symbol": "ЅМ"
-    }
+    },
+    "languages": ["Tajik"]
   },
   {
     "id": 172,
@@ -2061,7 +2250,8 @@
       "code": "TZS",
       "name": "Tanzanian Shilling",
       "symbol": "Sh"
-    }
+    },
+    "languages": ["Swahili", "English"]
   },
   {
     "id": 173,
@@ -2073,7 +2263,8 @@
       "code": "THB",
       "name": "Thai Baht",
       "symbol": "฿"
-    }
+    },
+    "languages": ["Thai"]
   },
   {
     "id": 174,
@@ -2085,7 +2276,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Tetum", "Portuguese"]
   },
   {
     "id": 175,
@@ -2097,7 +2289,8 @@
       "code": "XOF",
       "name": "West African CFA Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 176,
@@ -2109,7 +2302,8 @@
       "code": "TOP",
       "name": "Tongan Paʻanga",
       "symbol": "T$"
-    }
+    },
+    "languages": ["Tongan", "English"]
   },
   {
     "id": 177,
@@ -2121,7 +2315,8 @@
       "code": "TTD",
       "name": "Trinidad and Tobago Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 178,
@@ -2133,7 +2328,8 @@
       "code": "TND",
       "name": "Tunisian Dinar",
       "symbol": "د.ت"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 179,
@@ -2145,7 +2341,8 @@
       "code": "TRY",
       "name": "Turkish Lira",
       "symbol": "₺"
-    }
+    },
+    "languages": ["Turkish"]
   },
   {
     "id": 180,
@@ -2157,7 +2354,8 @@
       "code": "TMT",
       "name": "Turkmenistani Manat",
       "symbol": "m"
-    }
+    },
+    "languages": ["Turkmen"]
   },
   {
     "id": 181,
@@ -2169,7 +2367,8 @@
       "code": "AUD",
       "name": "Australian Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Tuvaluan", "English"]
   },
   {
     "id": 182,
@@ -2181,7 +2380,8 @@
       "code": "NZD",
       "name": "New Zealand Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["Tokelauan", "English"]
   },
   {
     "id": 183,
@@ -2193,7 +2393,8 @@
       "code": "UGX",
       "name": "Ugandan Shilling",
       "symbol": "Sh"
-    }
+    },
+    "languages": ["English", "Swahili"]
   },
   {
     "id": 184,
@@ -2205,7 +2406,8 @@
       "code": "UAH",
       "name": "Ukrainian Hryvnia",
       "symbol": "₴"
-    }
+    },
+    "languages": ["Ukrainian"]
   },
   {
     "id": 185,
@@ -2217,7 +2419,8 @@
       "code": "AED",
       "name": "United Arab Emirates Dirham",
       "symbol": "د.إ"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 186,
@@ -2229,7 +2432,8 @@
       "code": "GBP",
       "name": "British Pound Sterling",
       "symbol": "£"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 187,
@@ -2241,7 +2445,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 188,
@@ -2253,7 +2458,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 189,
@@ -2265,7 +2471,8 @@
       "code": "UYU",
       "name": "Uruguayan Peso",
       "symbol": "$"
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 190,
@@ -2277,7 +2484,8 @@
       "code": "UZS",
       "name": "Uzbekistani Som",
       "symbol": "сўм"
-    }
+    },
+    "languages": ["Uzbek"]
   },
   {
     "id": 191,
@@ -2289,7 +2497,8 @@
       "code": "VUV",
       "name": "Vanuatu Vatu",
       "symbol": "Vt"
-    }
+    },
+    "languages": ["Bislama", "English", "French"]
   },
   {
     "id": 192,
@@ -2301,7 +2510,8 @@
       "code": "EUR",
       "name": "Euro",
       "symbol": "€"
-    }
+    },
+    "languages": ["Italian", "Latin"]
   },
   {
     "id": 193,
@@ -2313,7 +2523,8 @@
       "code": "VES",
       "name": "Venezuelan Bolívar",
       "symbol": "Bs."
-    }
+    },
+    "languages": ["Spanish"]
   },
   {
     "id": 194,
@@ -2325,7 +2536,8 @@
       "code": "VND",
       "name": "Vietnamese Đồng",
       "symbol": "₫"
-    }
+    },
+    "languages": ["Vietnamese"]
   },
   {
     "id": 195,
@@ -2337,7 +2549,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 196,
@@ -2349,7 +2562,8 @@
       "code": "USD",
       "name": "United States Dollar",
       "symbol": "$"
-    }
+    },
+    "languages": ["English"]
   },
   {
     "id": 197,
@@ -2361,7 +2575,8 @@
       "code": "XPF",
       "name": "CFP Franc",
       "symbol": "Fr"
-    }
+    },
+    "languages": ["French"]
   },
   {
     "id": 198,
@@ -2373,7 +2588,8 @@
       "code": "MAD",
       "name": "Moroccan Dirham",
       "symbol": "د.م."
-    }
+    },
+    "languages": ["Arabic", "Spanish"]
   },
   {
     "id": 199,
@@ -2385,7 +2601,8 @@
       "code": "YER",
       "name": "Yemeni Rial",
       "symbol": "﷼"
-    }
+    },
+    "languages": ["Arabic"]
   },
   {
     "id": 200,
@@ -2397,19 +2614,36 @@
       "code": "ZMW",
       "name": "Zambian Kwacha",
       "symbol": "ZK"
-    }
+    },
+    "languages": ["English"]
   },
   {
-  "id": 201,
-  "name": "Zimbabwe",
-  "shortName": "ZW",
-  "code": "+263",
-  "flag": "https://flagcdn.com/w40/zw.png",
-  "currency": {
-    "code": "ZWL",
-    "name": "Zimbabwean Dollar",
-    "symbol": "Z$"
+    "id": 201,
+    "name": "Zimbabwe",
+    "shortName": "ZW",
+    "code": "+263",
+    "flag": "https://flagcdn.com/w40/zw.png",
+    "currency": {
+      "code": "ZWL",
+      "name": "Zimbabwean Dollar",
+      "symbol": "Z$"
+    },
+    "languages": [
+      "Chewa",
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Nambya",
+      "Ndau",
+      "Ndebele",
+      "Shangani",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Venda",
+      "Xhosa"
+    ]
   }
-}
-
 ]
