@@ -271,11 +271,43 @@
       "symbol": "Bs."
     },
     "languages": [
-      "Spanish",
+      "Castilian (Spanish)",
       "Aymara",
-      "Quechua",
+      "Araona",
+      "Baure",
+      "Bésiro (Chiquitano)",
+      "Canichana",
+      "Cavineña",
+      "Cayubaba",
+      "Chácobo",
+      "Chimán",
+      "Ese Ejja",
       "Guaraní",
-      "other indigenous languages"
+      "Guarasu'we",
+      "Guarayu",
+      "Itonama",
+      "Leco",
+      "Machajuyai-Kallawaya",
+      "Machineri",
+      "Maropa",
+      "Mojeño-Ignaciano",
+      "Mojeño-Trinitario",
+      "Moré",
+      "Mosetén",
+      "Movima",
+      "Pacawara",
+      "Puquina",
+      "Quechua",
+      "Sirionó",
+      "Tacana",
+      "Tapieté",
+      "Toromona",
+      "Uru-Chipaya",
+      "Weenhayek",
+      "Yaminawa",
+      "Yuki",
+      "Yuracaré",
+      "Zamuco"
     ]
   },
   {
@@ -302,7 +334,7 @@
       "name": "Botswanan Pula",
       "symbol": "P"
     },
-    "languages": ["English", "Tswana"]
+    "languages": ["English"]
   },
   {
     "id": 24,
@@ -354,7 +386,7 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["Bambara", "Bissa", "Dyula", "Fulfulde"]
   },
   {
     "id": 28,
@@ -471,7 +503,7 @@
       "name": "Chinese Yuan",
       "symbol": "¥"
     },
-    "languages": ["Chinese"]
+    "languages": ["Standard Chinese"]
   },
   {
     "id": 37,
@@ -692,7 +724,7 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["Spanish", "French", "Portuguese"]
+    "languages": ["French", "Portuguese", "Spanish"]
   },
   {
     "id": 54,
@@ -705,7 +737,7 @@
       "name": "Eritrean Nakfa",
       "symbol": "Nfk"
     },
-    "languages": ["Tigrinya", "Arabic", "English"]
+    "languages": ["Tigrinya"]
   },
   {
     "id": 55,
@@ -744,7 +776,7 @@
       "name": "Ethiopian Birr",
       "symbol": "Br"
     },
-    "languages": ["Amharic"]
+    "languages": ["Afar", "Amharic", "Hadiyya", "Oromo", "Somali", "Tigrinya"]
   },
   {
     "id": 58,
@@ -757,7 +789,7 @@
       "name": "Fijian Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Fijian", "Fiji Hindi"]
+    "languages": ["English", "Fijian", "Hindi"]
   },
   {
     "id": 59,
@@ -978,7 +1010,7 @@
       "name": "Icelandic Króna",
       "symbol": "kr"
     },
-    "languages": ["Icelandic"]
+    "languages": ["Icelandic", "Icelandic Sign Language"]
   },
   {
     "id": 76,
@@ -1043,7 +1075,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Irish", "English"]
+    "languages": ["English", "Irish"]
   },
   {
     "id": 81,
@@ -1056,7 +1088,7 @@
       "name": "Israeli New Shekel",
       "symbol": "₪"
     },
-    "languages": ["Hebrew", "Arabic"]
+    "languages": ["Hebrew"]
   },
   {
     "id": 82,
@@ -1212,7 +1244,7 @@
       "name": "Lebanese Pound",
       "symbol": "ل.ل"
     },
-    "languages": ["Arabic", "French"]
+    "languages": ["Arabic"]
   },
   {
     "id": 94,
@@ -1225,7 +1257,7 @@
       "name": "Lesotho Loti",
       "symbol": "L"
     },
-    "languages": ["Sotho", "English"]
+    "languages": ["English", "Sotho"]
   },
   {
     "id": 95,
@@ -1303,7 +1335,7 @@
       "name": "Malagasy Ariary",
       "symbol": "Ar"
     },
-    "languages": ["Malagasy", "French"]
+    "languages": ["French", "Malagasy"]
   },
   {
     "id": 101,
@@ -1316,7 +1348,7 @@
       "name": "Malawian Kwacha",
       "symbol": "MK"
     },
-    "languages": ["English", "Chewa"]
+    "languages": ["English", "Chichewa"]
   },
   {
     "id": 102,
@@ -1355,7 +1387,21 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": [
+      "Bambara",
+      "Bobo",
+      "Bozo",
+      "Dogon",
+      "Fula",
+      "Hassaniya",
+      "Kassonke",
+      "Maninke",
+      "Minyanka",
+      "Senufo",
+      "Songhay languages",
+      "Soninke",
+      "Tamasheq"
+    ]
   },
   {
     "id": 105,
@@ -1381,7 +1427,7 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["Marshallese", "English"]
+    "languages": ["English", "Marshallese"]
   },
   {
     "id": 107,
@@ -1407,7 +1453,7 @@
       "name": "Mauritian Rupee",
       "symbol": "₨"
     },
-    "languages": ["English"]
+    "languages": ["English", "French"]
   },
   {
     "id": 109,
@@ -1550,7 +1596,7 @@
       "name": "Australian Dollar",
       "symbol": "$"
     },
-    "languages": ["Nauruan", "English"]
+    "languages": ["English", "Nauruan"]
   },
   {
     "id": 120,
@@ -1667,7 +1713,7 @@
       "name": "Norwegian Krone",
       "symbol": "kr"
     },
-    "languages": ["Norwegian Bokmål", "Norwegian Nynorsk", "Sami"]
+    "languages": ["Norwegian", "Sami"]
   },
   {
     "id": 129,
@@ -1693,7 +1739,7 @@
       "name": "Pakistani Rupee",
       "symbol": "₨"
     },
-    "languages": ["English", "Urdu"]
+    "languages": ["Urdu", "English"]
   },
   {
     "id": 131,
@@ -1706,7 +1752,7 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["Palauan", "English"]
+    "languages": ["English", "Palauan"]
   },
   {
     "id": 132,
@@ -1745,7 +1791,7 @@
       "name": "Papua New Guinean Kina",
       "symbol": "K"
     },
-    "languages": ["English", "Tok Pisin", "Hiri Motu"]
+    "languages": ["English", "Hiri Motu", "Tok Pisin"]
   },
   {
     "id": 135,
@@ -1771,7 +1817,7 @@
       "name": "Peruvian Sol",
       "symbol": "S/."
     },
-    "languages": ["Spanish", "Quechua", "Aymara"]
+    "languages": ["Spanish"]
   },
   {
     "id": 137,
@@ -1914,7 +1960,7 @@
       "name": "Samoan Tala",
       "symbol": "T"
     },
-    "languages": ["Samoan", "English"]
+    "languages": ["English", "Samoan"]
   },
   {
     "id": 148,
@@ -2018,7 +2064,7 @@
       "name": "Singapore Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Malay", "Mandarin Chinese", "Tamil"]
+    "languages": ["English", "Malay", "Mandarin", "Tamil"]
   },
   {
     "id": 156,
@@ -2044,7 +2090,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Slovenian"]
+    "languages": ["Slovene"]
   },
   {
     "id": 158,
@@ -2086,15 +2132,16 @@
     "languages": [
       "Afrikaans",
       "English",
-      "Ndebele",
-      "Northern Sotho",
+      "Southern Ndebele",
       "Sotho",
+      "Northern Sotho",
       "Swazi",
       "Tsonga",
       "Tswana",
       "Venda",
       "Xhosa",
-      "Zulu"
+      "Zulu",
+      "SA Sign Language"
     ]
   },
   {
@@ -2108,7 +2155,7 @@
       "name": "South Korean Won",
       "symbol": "₩"
     },
-    "languages": ["Korean"]
+    "languages": ["Korean", "Korean Sign Language"]
   },
   {
     "id": 162,
@@ -2225,7 +2272,7 @@
       "name": "New Taiwan Dollar",
       "symbol": "$"
     },
-    "languages": ["Chinese"]
+    "languages": ["Mandarin Chinese"]
   },
   {
     "id": 171,
@@ -2303,7 +2350,7 @@
       "name": "Tongan Paʻanga",
       "symbol": "T$"
     },
-    "languages": ["Tongan", "English"]
+    "languages": ["English", "Tongan"]
   },
   {
     "id": 177,
@@ -2381,7 +2428,7 @@
       "name": "New Zealand Dollar",
       "symbol": "$"
     },
-    "languages": ["Tokelauan", "English"]
+    "languages": ["English", "Tokelauan"]
   },
   {
     "id": 183,
@@ -2459,7 +2506,7 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": []
   },
   {
     "id": 189,
@@ -2472,7 +2519,7 @@
       "name": "Uruguayan Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish", "Uruguayan Sign Language"]
   },
   {
     "id": 190,
@@ -2628,22 +2675,6 @@
       "name": "Zimbabwean Dollar",
       "symbol": "Z$"
     },
-    "languages": [
-      "Chewa",
-      "Chibarwe",
-      "English",
-      "Kalanga",
-      "Khoisan",
-      "Nambya",
-      "Ndau",
-      "Ndebele",
-      "Shangani",
-      "Shona",
-      "Sotho",
-      "Tonga",
-      "Tswana",
-      "Venda",
-      "Xhosa"
-    ]
+    "languages": ["English"]
   }
 ]
