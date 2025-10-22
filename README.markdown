@@ -1,6 +1,6 @@
 # 🌍 country-code-data
 
-**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, **flag image URLs**, and **currency information**.  
+**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, **flag image URLs**, **official languages** and **currency information**.  
 It’s perfect for developers building **forms**, **country selectors**, **phone input fields**, or **global applications** that need standardized country information.
 
 ---
@@ -12,6 +12,7 @@ It’s perfect for developers building **forms**, **country selectors**, **phone
 ✅ International calling/phone codes  
 ✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)  
 ✅ Currency codes, names, and symbols included
+✅ Official languages for each country
 ✅ Simple JSON structure — no dependencies  
 ✅ Works in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Next.js**, and **Vue**
 
@@ -89,22 +90,23 @@ Each country entry looks like this:
       "code": "BDT",
       "name": "Bangladeshi Taka",
       "symbol": "৳"
-    }
+    },
+    "languages": ["Bengali"]
   }
 ```
 
-Fields:
-| Field       | Description                                           |
-|------------|-------------------------------------------------------|
-| `id`        | Auto-incremented unique ID                           |
-| `name`      | Full country name                                    |
-| `shortName` | ISO 3166-1 alpha-2 code                              |
-| `code`      | International phone calling code                     |
-| `flag`      | URL of the country’s flag image                      |
-| `currency`  | Object containing the country’s currency details:   |
-| &nbsp;&nbsp;&nbsp;&nbsp;`code`   | ISO 4217 currency code (e.g., "BDT")           |
-| &nbsp;&nbsp;&nbsp;&nbsp;`name`   | Full currency name (e.g., "Bangladeshi Taka")|
-| &nbsp;&nbsp;&nbsp;&nbsp;`symbol` | Currency symbol (e.g., "৳")                    |
+| Field        | Description                                                        |
+| ------------ | ------------------------------------------------------------------ |
+| `id`         | Auto-incremented unique ID                                         |
+| `name`       | Full country name                                                  |
+| `shortName`  | ISO 3166-1 alpha-2 code                                            |
+| `code`       | International phone calling code                                   |
+| `flag`       | URL of the country’s flag image                                    |
+| `currency`   | Object containing the country’s currency details:                  |
+|     `code`   | ISO 4217 currency code (e.g., "BDT")                               |
+|     `name`   | Full currency name (e.g., "Bangladeshi Taka")                      |
+|     `symbol` | Currency symbol (e.g., "৳")                                        |
+| `languages`  | Array of official or widely spoken languages (e.g., `["Bengali"]`) |
 
 
 ---

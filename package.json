@@ -1,7 +1,7 @@
 {
   "name": "country-code-data",
   "version": "1.1.5",
-  "description": "A complete and lightweight dataset of all countries with country names, ISO codes, phone codes, currency information and flag image URLs — perfect for forms, selectors, or international apps.",
+  "description": "A complete and lightweight dataset of all countries with country names, ISO codes, phone codes, official languages, currency information and flag image URLs — perfect for forms, selectors, or international apps.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -34,7 +34,8 @@
     "country currency",
     "iso currency code",
     "currency info",
-    "currency json"
+    "currency json",
+    "official languages"
   ],
   "author": {
     "name": "Shodorson Nath",
