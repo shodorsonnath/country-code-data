@@ -1,6 +1,6 @@
 {
   "name": "country-code-data",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "A complete and lightweight dataset of all countries with country names, ISO codes, phone codes, official languages,countries capital name, currency information and flag image URLs — perfect for forms, selectors, or international apps.",
   "main": "index.js",
   "types": "index.d.ts",
