@@ -10,7 +10,8 @@
       "name": "Afghan Afghani",
       "symbol": "؋"
     },
-    "languages": ["Dari", "Pashto"]
+    "languages": ["Dari", "Pashto"],
+    "capital": "Kabul"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
       "name": "Albanian Lek",
       "symbol": "L"
     },
-    "languages": ["Albanian"]
+    "languages": ["Albanian"],
+    "capital": "Tirana"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
       "name": "Algerian Dinar",
       "symbol": "د.ج"
     },
-    "languages": ["Arabic", "Berber"]
+    "languages": ["Arabic", "Berber"],
+    "capital": "Algiers"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Catalan"]
+    "languages": ["Catalan"],
+    "capital": "Andorra la Vella"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
       "name": "Angolan Kwanza",
       "symbol": "Kz"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Luanda"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Saint John's"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
       "name": "Argentine Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Buenos Aires"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
       "name": "Armenian Dram",
       "symbol": "֏"
     },
-    "languages": ["Armenian"]
+    "languages": ["Armenian"],
+    "capital": "Yerevan"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
       "name": "Australian Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Canberra"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["German"]
+    "languages": ["German"],
+    "capital": "Vienna"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
       "name": "Azerbaijani Manat",
       "symbol": "₼"
     },
-    "languages": ["Azerbaijani"]
+    "languages": ["Azerbaijani"],
+    "capital": "Baku"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
       "name": "Bahamian Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Nassau"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
       "name": "Bahraini Dinar",
       "symbol": ".د.ب"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Manama"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
       "name": "Bangladeshi Taka",
       "symbol": "৳"
     },
-    "languages": ["Bengali"]
+    "languages": ["Bengali"],
+    "capital": "Dhaka"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
       "name": "Barbadian Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Bridgetown"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
       "name": "Belarusian Rubles",
       "symbol": "Br"
     },
-    "languages": ["Belarusian", "Russian"]
+    "languages": ["Belarusian", "Russian"],
+    "capital": "Minsk"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Dutch", "French", "German"]
+    "languages": ["Dutch", "French", "German"],
+    "capital": "Brussels"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
       "name": "Belize Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Belmopan"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Porto-Novo"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
       "name": "Bhutanese Ngultrum",
       "symbol": "Nu."
     },
-    "languages": ["Dzongkha"]
+    "languages": ["Dzongkha"],
+    "capital": "Thimphu"
   },
   {
     "id": 21,
@@ -308,7 +328,8 @@
       "Yuki",
       "Yuracaré",
       "Zamuco"
-    ]
+    ],
+    "capital": "Sucre"
   },
   {
     "id": 22,
@@ -321,7 +342,8 @@
       "name": "Bosnia-Herzegovina Convertible Mark",
       "symbol": "KM"
     },
-    "languages": ["Bosnian", "Croatian", "Serbian"]
+    "languages": ["Bosnian", "Croatian", "Serbian"],
+    "capital": "Sarajevo"
   },
   {
     "id": 23,
@@ -334,7 +356,8 @@
       "name": "Botswanan Pula",
       "symbol": "P"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Gaborone"
   },
   {
     "id": 24,
@@ -347,7 +370,8 @@
       "name": "Brazilian Real",
       "symbol": "R$"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Brasília"
   },
   {
     "id": 25,
@@ -360,7 +384,8 @@
       "name": "Brunei Dollar",
       "symbol": "$"
     },
-    "languages": ["Malay"]
+    "languages": ["Malay"],
+    "capital": "Bandar Seri Begawan"
   },
   {
     "id": 26,
@@ -373,7 +398,8 @@
       "name": "Bulgarian Lev",
       "symbol": "лв"
     },
-    "languages": ["Bulgarian"]
+    "languages": ["Bulgarian"],
+    "capital": "Sofia"
   },
   {
     "id": 27,
@@ -386,7 +412,8 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["Bambara", "Bissa", "Dyula", "Fulfulde"]
+    "languages": ["Bambara", "Bissa", "Dyula", "Fulfulde"],
+    "capital": "Ouagadougou"
   },
   {
     "id": 28,
@@ -399,7 +426,8 @@
       "name": "Burundian Franc",
       "symbol": "Fr"
     },
-    "languages": ["Kirundi", "French", "English"]
+    "languages": ["Kirundi", "French", "English"],
+    "capital": "Gitega"
   },
   {
     "id": 29,
@@ -412,7 +440,8 @@
       "name": "Cape Verdean Escudo",
       "symbol": "$"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Praia"
   },
   {
     "id": 30,
@@ -425,7 +454,8 @@
       "name": "Cambodian Riel",
       "symbol": "៛"
     },
-    "languages": ["Khmer"]
+    "languages": ["Khmer"],
+    "capital": "Phnom Penh"
   },
   {
     "id": 31,
@@ -438,7 +468,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["English", "French"]
+    "languages": ["English", "French"],
+    "capital": "Yaoundé"
   },
   {
     "id": 32,
@@ -451,7 +482,8 @@
       "name": "Canadian Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "French"]
+    "languages": ["English", "French"],
+    "capital": "Ottawa"
   },
   {
     "id": 33,
@@ -464,7 +496,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French", "Sango"]
+    "languages": ["French", "Sango"],
+    "capital": "Bangui"
   },
   {
     "id": 34,
@@ -477,7 +510,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["Arabic", "French"]
+    "languages": ["Arabic", "French"],
+    "capital": "N'Djamena"
   },
   {
     "id": 35,
@@ -490,7 +524,8 @@
       "name": "Chilean Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Santiago"
   },
   {
     "id": 36,
@@ -503,7 +538,8 @@
       "name": "Chinese Yuan",
       "symbol": "¥"
     },
-    "languages": ["Standard Chinese"]
+    "languages": ["Standard Chinese"],
+    "capital": "Beijing"
   },
   {
     "id": 37,
@@ -516,7 +552,8 @@
       "name": "Colombian Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Bogotá"
   },
   {
     "id": 38,
@@ -529,7 +566,8 @@
       "name": "Comorian Franc",
       "symbol": "Fr"
     },
-    "languages": ["Comorian", "Arabic", "French"]
+    "languages": ["Comorian", "Arabic", "French"],
+    "capital": "Moroni"
   },
   {
     "id": 39,
@@ -542,7 +580,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Brazzaville"
   },
   {
     "id": 40,
@@ -555,7 +594,8 @@
       "name": "Congolese Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Kinshasa"
   },
   {
     "id": 41,
@@ -568,7 +608,8 @@
       "name": "Costa Rican Colón",
       "symbol": "₡"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "San José"
   },
   {
     "id": 42,
@@ -581,7 +622,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Croatian"]
+    "languages": ["Croatian"],
+    "capital": "Zagreb"
   },
   {
     "id": 43,
@@ -594,7 +636,8 @@
       "name": "Cuban Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Havana"
   },
   {
     "id": 44,
@@ -607,7 +650,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Greek", "Turkish"]
+    "languages": ["Greek", "Turkish"],
+    "capital": "Nicosia"
   },
   {
     "id": 45,
@@ -620,7 +664,8 @@
       "name": "Czech Koruna",
       "symbol": "Kč"
     },
-    "languages": ["Czech"]
+    "languages": ["Czech"],
+    "capital": "Prague"
   },
   {
     "id": 46,
@@ -633,7 +678,8 @@
       "name": "Danish Krone",
       "symbol": "kr"
     },
-    "languages": ["Danish"]
+    "languages": ["Danish"],
+    "capital": "Copenhagen"
   },
   {
     "id": 47,
@@ -646,7 +692,8 @@
       "name": "Djiboutian Franc",
       "symbol": "Fr"
     },
-    "languages": ["Arabic", "French"]
+    "languages": ["Arabic", "French"],
+    "capital": "Djibouti"
   },
   {
     "id": 48,
@@ -659,7 +706,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Roseau"
   },
   {
     "id": 49,
@@ -672,7 +720,8 @@
       "name": "Dominican Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Santo Domingo"
   },
   {
     "id": 50,
@@ -685,7 +734,8 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Quito"
   },
   {
     "id": 51,
@@ -698,7 +748,8 @@
       "name": "Egyptian Pound",
       "symbol": "£"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Cairo"
   },
   {
     "id": 52,
@@ -711,7 +762,8 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "San Salvador"
   },
   {
     "id": 53,
@@ -724,7 +776,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French", "Portuguese", "Spanish"]
+    "languages": ["French", "Portuguese", "Spanish"],
+    "capital": "Malabo"
   },
   {
     "id": 54,
@@ -737,7 +790,8 @@
       "name": "Eritrean Nakfa",
       "symbol": "Nfk"
     },
-    "languages": ["Tigrinya"]
+    "languages": ["Tigrinya"],
+    "capital": "Asmara"
   },
   {
     "id": 55,
@@ -750,7 +804,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Estonian"]
+    "languages": ["Estonian"],
+    "capital": "Tallinn"
   },
   {
     "id": 56,
@@ -763,7 +818,8 @@
       "name": "Swazi Lilangeni",
       "symbol": "L"
     },
-    "languages": ["English", "Swati"]
+    "languages": ["English", "Swati"],
+    "capital": "Mbabane"
   },
   {
     "id": 57,
@@ -776,7 +832,8 @@
       "name": "Ethiopian Birr",
       "symbol": "Br"
     },
-    "languages": ["Afar", "Amharic", "Hadiyya", "Oromo", "Somali", "Tigrinya"]
+    "languages": ["Afar", "Amharic", "Hadiyya", "Oromo", "Somali", "Tigrinya"],
+    "capital": "Addis Ababa"
   },
   {
     "id": 58,
@@ -789,7 +846,8 @@
       "name": "Fijian Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Fijian", "Hindi"]
+    "languages": ["English", "Fijian", "Hindi"],
+    "capital": "Suva"
   },
   {
     "id": 59,
@@ -802,7 +860,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Finnish", "Swedish"]
+    "languages": ["Finnish", "Swedish"],
+    "capital": "Helsinki"
   },
   {
     "id": 60,
@@ -815,7 +874,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Paris"
   },
   {
     "id": 61,
@@ -828,7 +888,8 @@
       "name": "Central African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Libreville"
   },
   {
     "id": 62,
@@ -841,7 +902,8 @@
       "name": "Gambian Dalasi",
       "symbol": "D"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Banjul"
   },
   {
     "id": 63,
@@ -854,7 +916,8 @@
       "name": "Georgian Lari",
       "symbol": "₾"
     },
-    "languages": ["Georgian"]
+    "languages": ["Georgian"],
+    "capital": "Tbilisi"
   },
   {
     "id": 64,
@@ -867,7 +930,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["German"]
+    "languages": ["German"],
+    "capital": "Berlin"
   },
   {
     "id": 65,
@@ -880,7 +944,8 @@
       "name": "Ghanaian Cedi",
       "symbol": "₵"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Accra"
   },
   {
     "id": 66,
@@ -893,7 +958,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Greek"]
+    "languages": ["Greek"],
+    "capital": "Athens"
   },
   {
     "id": 67,
@@ -906,7 +972,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Saint George's"
   },
   {
     "id": 68,
@@ -919,7 +986,8 @@
       "name": "Guatemalan Quetzal",
       "symbol": "Q"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Guatemala City"
   },
   {
     "id": 69,
@@ -932,7 +1000,8 @@
       "name": "Guinean Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Conakry"
   },
   {
     "id": 70,
@@ -945,7 +1014,8 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Bissau"
   },
   {
     "id": 71,
@@ -958,7 +1028,8 @@
       "name": "Guyanese Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Georgetown"
   },
   {
     "id": 72,
@@ -971,7 +1042,8 @@
       "name": "Haitian Gourde",
       "symbol": "G"
     },
-    "languages": ["French", "Haitian Creole"]
+    "languages": ["French", "Haitian Creole"],
+    "capital": "Port-au-Prince"
   },
   {
     "id": 73,
@@ -984,7 +1056,8 @@
       "name": "Honduran Lempira",
       "symbol": "L"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Tegucigalpa"
   },
   {
     "id": 74,
@@ -997,7 +1070,8 @@
       "name": "Hungarian Forint",
       "symbol": "Ft"
     },
-    "languages": ["Hungarian"]
+    "languages": ["Hungarian"],
+    "capital": "Budapest"
   },
   {
     "id": 75,
@@ -1010,7 +1084,8 @@
       "name": "Icelandic Króna",
       "symbol": "kr"
     },
-    "languages": ["Icelandic", "Icelandic Sign Language"]
+    "languages": ["Icelandic", "Icelandic Sign Language"],
+    "capital": "Reykjavik"
   },
   {
     "id": 76,
@@ -1023,7 +1098,8 @@
       "name": "Indian Rupee",
       "symbol": "₹"
     },
-    "languages": ["Hindi", "English"]
+    "languages": ["Hindi", "English"],
+    "capital": "New Delhi"
   },
   {
     "id": 77,
@@ -1036,7 +1112,8 @@
       "name": "Indonesian Rupiah",
       "symbol": "Rp"
     },
-    "languages": ["Indonesian"]
+    "languages": ["Indonesian"],
+    "capital": "Jakarta"
   },
   {
     "id": 78,
@@ -1049,7 +1126,8 @@
       "name": "Iranian Rial",
       "symbol": "﷼"
     },
-    "languages": ["Persian"]
+    "languages": ["Persian"],
+    "capital": "Tehran"
   },
   {
     "id": 79,
@@ -1062,7 +1140,8 @@
       "name": "Iraqi Dinar",
       "symbol": "ع.د"
     },
-    "languages": ["Arabic", "Kurdish"]
+    "languages": ["Arabic", "Kurdish"],
+    "capital": "Baghdad"
   },
   {
     "id": 80,
@@ -1075,7 +1154,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["English", "Irish"]
+    "languages": ["English", "Irish"],
+    "capital": "Dublin"
   },
   {
     "id": 81,
@@ -1088,7 +1168,8 @@
       "name": "Israeli New Shekel",
       "symbol": "₪"
     },
-    "languages": ["Hebrew"]
+    "languages": ["Hebrew"],
+    "capital": "Jerusalem"
   },
   {
     "id": 82,
@@ -1101,7 +1182,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Italian"]
+    "languages": ["Italian"],
+    "capital": "Rome"
   },
   {
     "id": 83,
@@ -1114,7 +1196,8 @@
       "name": "Jamaican Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Kingston"
   },
   {
     "id": 84,
@@ -1127,7 +1210,8 @@
       "name": "Japanese Yen",
       "symbol": "¥"
     },
-    "languages": ["Japanese"]
+    "languages": ["Japanese"],
+    "capital": "Tokyo"
   },
   {
     "id": 85,
@@ -1140,7 +1224,8 @@
       "name": "Jordanian Dinar",
       "symbol": "د.ا"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Amman"
   },
   {
     "id": 86,
@@ -1153,7 +1238,8 @@
       "name": "Kazakhstani Tenge",
       "symbol": "₸"
     },
-    "languages": ["Kazakh", "Russian"]
+    "languages": ["Kazakh", "Russian"],
+    "capital": "Nur-Sultan"
   },
   {
     "id": 87,
@@ -1166,7 +1252,8 @@
       "name": "Kenyan Shilling",
       "symbol": "Sh"
     },
-    "languages": ["English", "Swahili"]
+    "languages": ["English", "Swahili"],
+    "capital": "Nairobi"
   },
   {
     "id": 88,
@@ -1179,7 +1266,8 @@
       "name": "Australian Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Gilbertese"]
+    "languages": ["English", "Gilbertese"],
+    "capital": "South Tarawa"
   },
   {
     "id": 89,
@@ -1192,7 +1280,8 @@
       "name": "Kuwaiti Dinar",
       "symbol": "د.ك"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Kuwait City"
   },
   {
     "id": 90,
@@ -1205,7 +1294,8 @@
       "name": "Kyrgyzstani Som",
       "symbol": "с"
     },
-    "languages": ["Kyrgyz", "Russian"]
+    "languages": ["Kyrgyz", "Russian"],
+    "capital": "Bishkek"
   },
   {
     "id": 91,
@@ -1218,7 +1308,8 @@
       "name": "Lao Kip",
       "symbol": "₭"
     },
-    "languages": ["Lao"]
+    "languages": ["Lao"],
+    "capital": "Vientiane"
   },
   {
     "id": 92,
@@ -1231,7 +1322,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Latvian"]
+    "languages": ["Latvian"],
+    "capital": "Riga"
   },
   {
     "id": 93,
@@ -1244,7 +1336,8 @@
       "name": "Lebanese Pound",
       "symbol": "ل.ل"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Beirut"
   },
   {
     "id": 94,
@@ -1257,7 +1350,8 @@
       "name": "Lesotho Loti",
       "symbol": "L"
     },
-    "languages": ["English", "Sotho"]
+    "languages": ["English", "Sotho"],
+    "capital": "Maseru"
   },
   {
     "id": 95,
@@ -1270,7 +1364,8 @@
       "name": "Liberian Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Monrovia"
   },
   {
     "id": 96,
@@ -1283,7 +1378,8 @@
       "name": "Libyan Dinar",
       "symbol": "ل.د"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Tripoli"
   },
   {
     "id": 97,
@@ -1296,7 +1392,8 @@
       "name": "Swiss Franc",
       "symbol": "Fr"
     },
-    "languages": ["German"]
+    "languages": ["German"],
+    "capital": "Vaduz"
   },
   {
     "id": 98,
@@ -1309,7 +1406,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Lithuanian"]
+    "languages": ["Lithuanian"],
+    "capital": "Vilnius"
   },
   {
     "id": 99,
@@ -1322,7 +1420,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["French", "German", "Luxembourgish"]
+    "languages": ["French", "German", "Luxembourgish"],
+    "capital": "Luxembourg City"
   },
   {
     "id": 100,
@@ -1335,7 +1434,8 @@
       "name": "Malagasy Ariary",
       "symbol": "Ar"
     },
-    "languages": ["French", "Malagasy"]
+    "languages": ["French", "Malagasy"],
+    "capital": "Antananarivo"
   },
   {
     "id": 101,
@@ -1348,7 +1448,8 @@
       "name": "Malawian Kwacha",
       "symbol": "MK"
     },
-    "languages": ["English", "Chichewa"]
+    "languages": ["English", "Chichewa"],
+    "capital": "Lilongwe"
   },
   {
     "id": 102,
@@ -1361,7 +1462,8 @@
       "name": "Malaysian Ringgit",
       "symbol": "RM"
     },
-    "languages": ["Malay"]
+    "languages": ["Malay"],
+    "capital": "Kuala Lumpur"
   },
   {
     "id": 103,
@@ -1374,7 +1476,8 @@
       "name": "Maldivian Rufiyaa",
       "symbol": ".ރ"
     },
-    "languages": ["Dhivehi"]
+    "languages": ["Dhivehi"],
+    "capital": "Malé"
   },
   {
     "id": 104,
@@ -1401,7 +1504,8 @@
       "Songhay languages",
       "Soninke",
       "Tamasheq"
-    ]
+    ],
+    "capital": "Bamako"
   },
   {
     "id": 105,
@@ -1414,7 +1518,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Maltese", "English"]
+    "languages": ["Maltese", "English"],
+    "capital": "Valletta"
   },
   {
     "id": 106,
@@ -1427,7 +1532,8 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Marshallese"]
+    "languages": ["English", "Marshallese"],
+    "capital": "Majuro"
   },
   {
     "id": 107,
@@ -1440,7 +1546,8 @@
       "name": "Mauritanian Ouguiya",
       "symbol": "UM"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Nouakchott"
   },
   {
     "id": 108,
@@ -1453,7 +1560,8 @@
       "name": "Mauritian Rupee",
       "symbol": "₨"
     },
-    "languages": ["English", "French"]
+    "languages": ["English", "French"],
+    "capital": "Port Louis"
   },
   {
     "id": 109,
@@ -1466,7 +1574,8 @@
       "name": "Mexican Peso",
       "symbol": "$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Mexico City"
   },
   {
     "id": 110,
@@ -1479,7 +1588,8 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Palikir"
   },
   {
     "id": 111,
@@ -1492,7 +1602,8 @@
       "name": "Moldovan Leu",
       "symbol": "L"
     },
-    "languages": ["Romanian"]
+    "languages": ["Romanian"],
+    "capital": "Chișinău"
   },
   {
     "id": 112,
@@ -1505,7 +1616,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Monaco"
   },
   {
     "id": 113,
@@ -1518,7 +1630,8 @@
       "name": "Mongolian Tögrög",
       "symbol": "₮"
     },
-    "languages": ["Mongolian"]
+    "languages": ["Mongolian"],
+    "capital": "Ulaanbaatar"
   },
   {
     "id": 114,
@@ -1531,7 +1644,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Montenegrin"]
+    "languages": ["Montenegrin"],
+    "capital": "Podgorica"
   },
   {
     "id": 115,
@@ -1544,7 +1658,8 @@
       "name": "Moroccan Dirham",
       "symbol": "د.م."
     },
-    "languages": ["Arabic", "Berber"]
+    "languages": ["Arabic", "Berber"],
+    "capital": "Rabat"
   },
   {
     "id": 116,
@@ -1557,7 +1672,8 @@
       "name": "Mozambican Metical",
       "symbol": "MT"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Maputo"
   },
   {
     "id": 117,
@@ -1570,7 +1686,8 @@
       "name": "Myanmar Kyat",
       "symbol": "K"
     },
-    "languages": ["Burmese"]
+    "languages": ["Burmese"],
+    "capital": "Naypyidaw"
   },
   {
     "id": 118,
@@ -1583,7 +1700,8 @@
       "name": "Namibian Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Windhoek"
   },
   {
     "id": 119,
@@ -1596,7 +1714,8 @@
       "name": "Australian Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Nauruan"]
+    "languages": ["English", "Nauruan"],
+    "capital": "Yaren"
   },
   {
     "id": 120,
@@ -1609,7 +1728,8 @@
       "name": "Nepalese Rupee",
       "symbol": "₨"
     },
-    "languages": ["Nepali"]
+    "languages": ["Nepali"],
+    "capital": "Kathmandu"
   },
   {
     "id": 121,
@@ -1622,7 +1742,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Dutch"]
+    "languages": ["Dutch"],
+    "capital": "Amsterdam"
   },
   {
     "id": 122,
@@ -1635,7 +1756,8 @@
       "name": "New Zealand Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Māori", "New Zealand Sign Language"]
+    "languages": ["English", "Māori", "New Zealand Sign Language"],
+    "capital": "Wellington"
   },
   {
     "id": 123,
@@ -1648,7 +1770,8 @@
       "name": "Nicaraguan Córdoba",
       "symbol": "C$"
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Managua"
   },
   {
     "id": 124,
@@ -1661,7 +1784,8 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Niamey"
   },
   {
     "id": 125,
@@ -1674,7 +1798,8 @@
       "name": "Nigerian Naira",
       "symbol": "₦"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Abuja"
   },
   {
     "id": 126,
@@ -1687,7 +1812,8 @@
       "name": "North Korean Won",
       "symbol": "₩"
     },
-    "languages": ["Korean"]
+    "languages": ["Korean"],
+    "capital": "Pyongyang"
   },
   {
     "id": 127,
@@ -1700,7 +1826,8 @@
       "name": "Macedonian Denar",
       "symbol": "ден"
     },
-    "languages": ["Macedonian", "Albanian"]
+    "languages": ["Macedonian", "Albanian"],
+    "capital": "Skopje"
   },
   {
     "id": 128,
@@ -1713,7 +1840,8 @@
       "name": "Norwegian Krone",
       "symbol": "kr"
     },
-    "languages": ["Norwegian", "Sami"]
+    "languages": ["Norwegian", "Sami"],
+    "capital": "Oslo"
   },
   {
     "id": 129,
@@ -1726,7 +1854,8 @@
       "name": "Omani Rial",
       "symbol": "ر.ع."
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Muscat"
   },
   {
     "id": 130,
@@ -1739,7 +1868,8 @@
       "name": "Pakistani Rupee",
       "symbol": "₨"
     },
-    "languages": ["Urdu", "English"]
+    "languages": ["Urdu", "English"],
+    "capital": "Islamabad"
   },
   {
     "id": 131,
@@ -1752,7 +1882,8 @@
       "name": "United States Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Palauan"]
+    "languages": ["English", "Palauan"],
+    "capital": "Ngerulmud"
   },
   {
     "id": 132,
@@ -1765,7 +1896,8 @@
       "name": "Israeli New Shekel",
       "symbol": "₪"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Ramallah"
   },
   {
     "id": 133,
@@ -1778,7 +1910,8 @@
       "name": "Panamanian Balboa",
       "symbol": "B/."
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Panama City"
   },
   {
     "id": 134,
@@ -1791,7 +1924,8 @@
       "name": "Papua New Guinean Kina",
       "symbol": "K"
     },
-    "languages": ["English", "Hiri Motu", "Tok Pisin"]
+    "languages": ["English", "Hiri Motu", "Tok Pisin"],
+    "capital": "Port Moresby"
   },
   {
     "id": 135,
@@ -1804,7 +1938,8 @@
       "name": "Paraguayan Guarani",
       "symbol": "₲"
     },
-    "languages": ["Spanish", "Guaraní"]
+    "languages": ["Spanish", "Guaraní"],
+    "capital": "Asunción"
   },
   {
     "id": 136,
@@ -1817,7 +1952,8 @@
       "name": "Peruvian Sol",
       "symbol": "S/."
     },
-    "languages": ["Spanish"]
+    "languages": ["Spanish"],
+    "capital": "Lima"
   },
   {
     "id": 137,
@@ -1830,7 +1966,8 @@
       "name": "Philippine Peso",
       "symbol": "₱"
     },
-    "languages": ["Filipino", "English"]
+    "languages": ["Filipino", "English"],
+    "capital": "Quezon City"
   },
   {
     "id": 138,
@@ -1843,7 +1980,8 @@
       "name": "Polish Złoty",
       "symbol": "zł"
     },
-    "languages": ["Polish"]
+    "languages": ["Polish"],
+    "capital": "Warsaw"
   },
   {
     "id": 139,
@@ -1856,7 +1994,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "Lisbon"
   },
   {
     "id": 140,
@@ -1869,7 +2008,8 @@
       "name": "Qatari Riyal",
       "symbol": "ر.ق"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Doha"
   },
   {
     "id": 141,
@@ -1882,7 +2022,8 @@
       "name": "Romanian Leu",
       "symbol": "lei"
     },
-    "languages": ["Romanian"]
+    "languages": ["Romanian"],
+    "capital": "Bucharest"
   },
   {
     "id": 142,
@@ -1895,7 +2036,8 @@
       "name": "Russian Rubles",
       "symbol": "₽"
     },
-    "languages": ["Russian"]
+    "languages": ["Russian"],
+    "capital": "Moscow"
   },
   {
     "id": 143,
@@ -1908,7 +2050,8 @@
       "name": "Rwandan Franc",
       "symbol": "Fr"
     },
-    "languages": ["Kinyarwanda", "English", "French", "Swahili"]
+    "languages": ["Kinyarwanda", "English", "French", "Swahili"],
+    "capital": "Kigali"
   },
   {
     "id": 144,
@@ -1921,7 +2064,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Basseterre"
   },
   {
     "id": 145,
@@ -1934,7 +2078,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Castries"
   },
   {
     "id": 146,
@@ -1947,7 +2092,8 @@
       "name": "East Caribbean Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Kingstown"
   },
   {
     "id": 147,
@@ -1960,7 +2106,8 @@
       "name": "Samoan Tala",
       "symbol": "T"
     },
-    "languages": ["English", "Samoan"]
+    "languages": ["English", "Samoan"],
+    "capital": "Apia"
   },
   {
     "id": 148,
@@ -1973,7 +2120,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Italian"]
+    "languages": ["Italian"],
+    "capital": "San Marino"
   },
   {
     "id": 149,
@@ -1986,7 +2134,8 @@
       "name": "São Tomé and Príncipe Dobra",
       "symbol": "Db"
     },
-    "languages": ["Portuguese"]
+    "languages": ["Portuguese"],
+    "capital": "São Tomé"
   },
   {
     "id": 150,
@@ -1999,7 +2148,8 @@
       "name": "Saudi Riyal",
       "symbol": "ر.س"
     },
-    "languages": ["Arabic"]
+    "languages": ["Arabic"],
+    "capital": "Riyadh"
   },
   {
     "id": 151,
@@ -2012,7 +2162,8 @@
       "name": "West African CFA Franc",
       "symbol": "Fr"
     },
-    "languages": ["French"]
+    "languages": ["French"],
+    "capital": "Dakar"
   },
   {
     "id": 152,
@@ -2025,7 +2176,8 @@
       "name": "Serbian Dinar",
       "symbol": "дин."
     },
-    "languages": ["Serbian"]
+    "languages": ["Serbian"],
+    "capital": "Belgrade"
   },
   {
     "id": 153,
@@ -2038,7 +2190,8 @@
       "name": "Seychellois Rupee",
       "symbol": "₨"
     },
-    "languages": ["English", "French", "Seychellois Creole"]
+    "languages": ["English", "French", "Seychellois Creole"],
+    "capital": "Victoria"
   },
   {
     "id": 154,
@@ -2051,7 +2204,8 @@
       "name": "Sierra Leonean Leone",
       "symbol": "Le"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Freetown"
   },
   {
     "id": 155,
@@ -2064,7 +2218,8 @@
       "name": "Singapore Dollar",
       "symbol": "$"
     },
-    "languages": ["English", "Malay", "Mandarin", "Tamil"]
+    "languages": ["English", "Malay", "Mandarin", "Tamil"],
+    "capital": "Singapore"
   },
   {
     "id": 156,
@@ -2077,7 +2232,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Slovak"]
+    "languages": ["Slovak"],
+    "capital": "Bratislava"
   },
   {
     "id": 157,
@@ -2090,7 +2246,8 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "languages": ["Slovene"]
+    "languages": ["Slovene"],
+    "capital": "Ljubljana"
   },
   {
     "id": 158,
@@ -2103,7 +2260,8 @@
       "name": "Solomon Islands Dollar",
       "symbol": "$"
     },
-    "languages": ["English"]
+    "languages": ["English"],
+    "capital": "Honiara"
   },
   {
     "id": 159,
@@ -2116,7 +2274,8 @@
       "name": "Somali Shilling",
       "symbol": "Sh"
     },
-    "languages": ["Somali", "Arabic"]
+    "languages": ["Somali", "Arabic"],
+    "capital": "Mogadishu"
   },
   {
     "id": 160,
@@ -2124,6 +2283,7 @@
     "shortName": "ZA",
     "code": "+27",
     "flag": "https://flagcdn.com/w40/za.png",
+    "capital": "Pretoria",
     "currency": {
       "code": "ZAR",
       "name": "South African Rand",
@@ -2150,6 +2310,7 @@
     "shortName": "KR",
     "code": "+82",
     "flag": "https://flagcdn.com/w40/kr.png",
+    "capital": "Seoul",
     "currency": {
       "code": "KRW",
       "name": "South Korean Won",
@@ -2163,6 +2324,7 @@
     "shortName": "SS",
     "code": "+211",
     "flag": "https://flagcdn.com/w40/ss.png",
+    "capital": "Juba",
     "currency": {
       "code": "SSP",
       "name": "South Sudanese Pound",
@@ -2176,6 +2338,7 @@
     "shortName": "ES",
     "code": "+34",
     "flag": "https://flagcdn.com/w40/es.png",
+    "capital": "Madrid",
     "currency": {
       "code": "EUR",
       "name": "Euro",
@@ -2189,6 +2352,7 @@
     "shortName": "LK",
     "code": "+94",
     "flag": "https://flagcdn.com/w40/lk.png",
+    "capital": "Colombo",
     "currency": {
       "code": "LKR",
       "name": "Sri Lankan Rupee",
@@ -2202,6 +2366,7 @@
     "shortName": "SD",
     "code": "+249",
     "flag": "https://flagcdn.com/w40/sd.png",
+    "capital": "Khartoum",
     "currency": {
       "code": "SDG",
       "name": "Sudanese Pound",
@@ -2215,6 +2380,7 @@
     "shortName": "SR",
     "code": "+597",
     "flag": "https://flagcdn.com/w40/sr.png",
+    "capital": "Paramaribo",
     "currency": {
       "code": "SRD",
       "name": "Surinamese Dollar",
@@ -2228,6 +2394,7 @@
     "shortName": "SE",
     "code": "+46",
     "flag": "https://flagcdn.com/w40/se.png",
+    "capital": "Stockholm",
     "currency": {
       "code": "SEK",
       "name": "Swedish Krona",
@@ -2241,6 +2408,7 @@
     "shortName": "CH",
     "code": "+41",
     "flag": "https://flagcdn.com/w40/ch.png",
+    "capital": "Bern",
     "currency": {
       "code": "CHF",
       "name": "Swiss Franc",
@@ -2254,6 +2422,7 @@
     "shortName": "SY",
     "code": "+963",
     "flag": "https://flagcdn.com/w40/sy.png",
+    "capital": "Damascus",
     "currency": {
       "code": "SYP",
       "name": "Syrian Pound",
@@ -2267,6 +2436,7 @@
     "shortName": "TW",
     "code": "+886",
     "flag": "https://flagcdn.com/w40/tw.png",
+    "capital": "Taipei",
     "currency": {
       "code": "TWD",
       "name": "New Taiwan Dollar",
@@ -2280,6 +2450,7 @@
     "shortName": "TJ",
     "code": "+992",
     "flag": "https://flagcdn.com/w40/tj.png",
+    "capital": "Dushanbe",
     "currency": {
       "code": "TJS",
       "name": "Tajikistani Somoni",
@@ -2293,6 +2464,7 @@
     "shortName": "TZ",
     "code": "+255",
     "flag": "https://flagcdn.com/w40/tz.png",
+    "capital": "Dodoma",
     "currency": {
       "code": "TZS",
       "name": "Tanzanian Shilling",
@@ -2306,6 +2478,7 @@
     "shortName": "TH",
     "code": "+66",
     "flag": "https://flagcdn.com/w40/th.png",
+    "capital": "Bangkok",
     "currency": {
       "code": "THB",
       "name": "Thai Baht",
@@ -2319,6 +2492,7 @@
     "shortName": "TL",
     "code": "+670",
     "flag": "https://flagcdn.com/w40/tl.png",
+    "capital": "Dili",
     "currency": {
       "code": "USD",
       "name": "United States Dollar",
@@ -2332,6 +2506,7 @@
     "shortName": "TG",
     "code": "+228",
     "flag": "https://flagcdn.com/w40/tg.png",
+    "capital": "Lomé",
     "currency": {
       "code": "XOF",
       "name": "West African CFA Franc",
@@ -2345,6 +2520,7 @@
     "shortName": "TO",
     "code": "+676",
     "flag": "https://flagcdn.com/w40/to.png",
+    "capital": "Nukuʻalofa",
     "currency": {
       "code": "TOP",
       "name": "Tongan Paʻanga",
@@ -2358,6 +2534,7 @@
     "shortName": "TT",
     "code": "+1-868",
     "flag": "https://flagcdn.com/w40/tt.png",
+    "capital": "Port of Spain",
     "currency": {
       "code": "TTD",
       "name": "Trinidad and Tobago Dollar",
@@ -2371,6 +2548,7 @@
     "shortName": "TN",
     "code": "+216",
     "flag": "https://flagcdn.com/w40/tn.png",
+    "capital": "Tunis",
     "currency": {
       "code": "TND",
       "name": "Tunisian Dinar",
@@ -2384,6 +2562,7 @@
     "shortName": "TR",
     "code": "+90",
     "flag": "https://flagcdn.com/w40/tr.png",
+    "capital": "Ankara",
     "currency": {
       "code": "TRY",
       "name": "Turkish Lira",
@@ -2397,6 +2576,7 @@
     "shortName": "TM",
     "code": "+993",
     "flag": "https://flagcdn.com/w40/tm.png",
+    "capital": "Ashgabat",
     "currency": {
       "code": "TMT",
       "name": "Turkmenistani Manat",
@@ -2410,6 +2590,7 @@
     "shortName": "TV",
     "code": "+688",
     "flag": "https://flagcdn.com/w40/tv.png",
+    "capital": "Funafuti",
     "currency": {
       "code": "AUD",
       "name": "Australian Dollar",
@@ -2423,6 +2604,7 @@
     "shortName": "TK",
     "code": "+690",
     "flag": "https://flagcdn.com/w40/tk.png",
+    "capital": "",
     "currency": {
       "code": "NZD",
       "name": "New Zealand Dollar",
@@ -2436,6 +2618,7 @@
     "shortName": "UG",
     "code": "+256",
     "flag": "https://flagcdn.com/w40/ug.png",
+    "capital": "Kampala",
     "currency": {
       "code": "UGX",
       "name": "Ugandan Shilling",
@@ -2449,6 +2632,7 @@
     "shortName": "UA",
     "code": "+380",
     "flag": "https://flagcdn.com/w40/ua.png",
+    "capital": "Kyiv",
     "currency": {
       "code": "UAH",
       "name": "Ukrainian Hryvnia",
@@ -2462,6 +2646,7 @@
     "shortName": "AE",
     "code": "+971",
     "flag": "https://flagcdn.com/w40/ae.png",
+    "capital": "Abu Dhabi",
     "currency": {
       "code": "AED",
       "name": "United Arab Emirates Dirham",
@@ -2475,6 +2660,7 @@
     "shortName": "GB",
     "code": "+44",
     "flag": "https://flagcdn.com/w40/gb.png",
+    "capital": "London",
     "currency": {
       "code": "GBP",
       "name": "British Pound Sterling",
@@ -2488,6 +2674,7 @@
     "shortName": "US",
     "code": "+1",
     "flag": "https://flagcdn.com/w40/us.png",
+    "capital": "Washington, D.C.",
     "currency": {
       "code": "USD",
       "name": "United States Dollar",
@@ -2501,6 +2688,7 @@
     "shortName": "UM",
     "code": "+1",
     "flag": "https://flagcdn.com/w40/um.png",
+    "capital": "",
     "currency": {
       "code": "USD",
       "name": "United States Dollar",
@@ -2514,6 +2702,7 @@
     "shortName": "UY",
     "code": "+598",
     "flag": "https://flagcdn.com/w40/uy.png",
+    "capital": "Montevideo",
     "currency": {
       "code": "UYU",
       "name": "Uruguayan Peso",
@@ -2527,6 +2716,7 @@
     "shortName": "UZ",
     "code": "+998",
     "flag": "https://flagcdn.com/w40/uz.png",
+    "capital": "Tashkent",
     "currency": {
       "code": "UZS",
       "name": "Uzbekistani Som",
@@ -2540,6 +2730,7 @@
     "shortName": "VU",
     "code": "+678",
     "flag": "https://flagcdn.com/w40/vu.png",
+    "capital": "Port Vila",
     "currency": {
       "code": "VUV",
       "name": "Vanuatu Vatu",
@@ -2553,6 +2744,7 @@
     "shortName": "VA",
     "code": "+39",
     "flag": "https://flagcdn.com/w40/va.png",
+    "capital": "Vatican City",
     "currency": {
       "code": "EUR",
       "name": "Euro",
@@ -2566,6 +2758,7 @@
     "shortName": "VE",
     "code": "+58",
     "flag": "https://flagcdn.com/w40/ve.png",
+    "capital": "Caracas",
     "currency": {
       "code": "VES",
       "name": "Venezuelan Bolívar",
@@ -2579,6 +2772,7 @@
     "shortName": "VN",
     "code": "+84",
     "flag": "https://flagcdn.com/w40/vn.png",
+    "capital": "Hanoi",
     "currency": {
       "code": "VND",
       "name": "Vietnamese Đồng",
@@ -2592,6 +2786,7 @@
     "shortName": "VG",
     "code": "+1-284",
     "flag": "https://flagcdn.com/w40/vg.png",
+    "capital": "Road Town",
     "currency": {
       "code": "USD",
       "name": "United States Dollar",
@@ -2605,6 +2800,7 @@
     "shortName": "VI",
     "code": "+1-340",
     "flag": "https://flagcdn.com/w40/vi.png",
+    "capital": "Charlotte Amalie",
     "currency": {
       "code": "USD",
       "name": "United States Dollar",
@@ -2618,6 +2814,7 @@
     "shortName": "WF",
     "code": "+681",
     "flag": "https://flagcdn.com/w40/wf.png",
+    "capital": "Mata-Utu",
     "currency": {
       "code": "XPF",
       "name": "CFP Franc",
@@ -2631,6 +2828,7 @@
     "shortName": "EH",
     "code": "+212",
     "flag": "https://flagcdn.com/w40/eh.png",
+    "capital": "",
     "currency": {
       "code": "MAD",
       "name": "Moroccan Dirham",
@@ -2644,6 +2842,7 @@
     "shortName": "YE",
     "code": "+967",
     "flag": "https://flagcdn.com/w40/ye.png",
+    "capital": "Sana'a",
     "currency": {
       "code": "YER",
       "name": "Yemeni Rial",
@@ -2657,6 +2856,7 @@
     "shortName": "ZM",
     "code": "+260",
     "flag": "https://flagcdn.com/w40/zm.png",
+    "capital": "Lusaka",
     "currency": {
       "code": "ZMW",
       "name": "Zambian Kwacha",
@@ -2670,6 +2870,7 @@
     "shortName": "ZW",
     "code": "+263",
     "flag": "https://flagcdn.com/w40/zw.png",
+    "capital": "Harare",
     "currency": {
       "code": "ZWL",
       "name": "Zimbabwean Dollar",

@@ -1,6 +1,6 @@
 # 🌍 country-code-data
 
-**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, **flag image URLs**, **official languages** and **currency information**.  
+**country-code-data** is a lightweight, ready-to-use JSON dataset containing all **countries**, their **ISO codes**, **international phone codes**, **flag image URLs**, **capital name**, **official languages** and **currency information**.  
 It’s perfect for developers building **forms**, **country selectors**, **phone input fields**, or **global applications** that need standardized country information.
 
 ---
@@ -10,7 +10,8 @@ It’s perfect for developers building **forms**, **country selectors**, **phone
 ✅ 200+ countries included  
 ✅ ISO 3166 country codes  
 ✅ International calling/phone codes  
-✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)  
+✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)
+✅ Capital City name for each country  
 ✅ Currency codes, names, and symbols included
 ✅ Official languages for each country
 ✅ Simple JSON structure — no dependencies  
@@ -86,6 +87,7 @@ Each country entry looks like this:
     "shortName": "BD",
     "code": "+880",
     "flag": "https://flagcdn.com/w40/bd.png",
+    "capital": "Dhaka",
     "currency": {
       "code": "BDT",
       "name": "Bangladeshi Taka",
@@ -102,6 +104,7 @@ Each country entry looks like this:
 | `shortName`  | ISO 3166-1 alpha-2 code                                            |
 | `code`       | International phone calling code                                   |
 | `flag`       | URL of the country’s flag image                                    |
+| `capital`    | Capital of the country’s                                           |
 | `currency`   | Object containing the country’s currency details:                  |
 |     `code`   | ISO 4217 currency code (e.g., "BDT")                               |
 |     `name`   | Full currency name (e.g., "Bangladeshi Taka")                      |
