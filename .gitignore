@@ -139,5 +139,5 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 # Don't ignore website folder
-!website/
-!website/index.html
+!docs/
+!docs/index.html
