@@ -1,7 +1,7 @@
 {
   "name": "country-code-data",
   "version": "1.1.7",
-  "description": "A complete and lightweight dataset of all countries with country names, ISO codes, phone codes, official languages,countries capital name, currency information and flag image URLs — perfect for forms, selectors, or international apps.",
+  "description": "A lightweight npm package with complete country data, including country names, ISO codes, phone codes, capitals, currencies, official languages, and flags. Perfect for country dropdowns, phone input selectors, forms, APIs, and international applications.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,11 +9,14 @@
   },
   "keywords": [
     "country",
-    "country-code",
-    "country-code-data",
+    "country code",
     "country list",
     "country data",
+    "country dropdown",
     "phone code",
+    "iso code",
+    "npm package",
+    "country-code-data",
     "international code",
     "iso code",
     "country json",
