@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>Country Code Data - Complete Country List NPM Package | ISO Codes, Phone Codes, Flags</title>
+    <meta name="title" content="Country Code Data - Complete Country List NPM Package | ISO Codes, Phone Codes, Flags">
+    <meta name="description" content="Lightweight NPM package with 200+ countries data including ISO codes, international phone codes, flags, currencies, capital cities & languages. Perfect for React, Next.js, Vue & Node.js applications.">
+    <meta name="keywords" content="country code data, npm country package, iso country codes, international phone codes, country flags, country data json, country selector npm, phone input selector, country dropdown, currency codes, capital cities data, country list package, react country selector, nextjs country data">
+    <meta name="author" content="Shodorson Nath">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.npmjs.com/package/country-code-data">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.npmjs.com/package/country-code-data">
+    <meta property="og:title" content="Country Code Data - Complete Country List NPM Package">
+    <meta property="og:description" content="Lightweight NPM package with 200+ countries data including ISO codes, phone codes, flags, currencies & more. Zero dependencies.">
+    <meta property="og:image" content="https://flagcdn.com/w640/un.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.npmjs.com/package/country-code-data">
+    <meta property="twitter:title" content="Country Code Data - Complete Country List NPM Package">
+    <meta property="twitter:description" content="Lightweight NPM package with 200+ countries data including ISO codes, phone codes, flags, currencies & more.">
+    <meta property="twitter:image" content="https://flagcdn.com/w640/un.png">
+    
+    <!-- Structured Data / Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "country-code-data",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "Cross-platform",
+      "description": "Complete country data NPM package with ISO codes, phone codes, flags, currencies, and more for 200+ countries",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Shodorson Nath"
+      },
+      "programmingLanguage": "JavaScript",
+      "keywords": "country codes, ISO codes, phone codes, country flags, npm package"
+    }
+    </script>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 20px 0;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        h1 {
+            font-size: 2rem;
+            color: #667eea;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .npm-badge {
+            display: inline-flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .badge {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: transform 0.3s ease;
+        }
+        
+        .badge:hover {
+            transform: translateY(-2px);
+        }
+        
+        .badge-npm {
+            background: #cb3837;
+            color: white;
+        }
+        
+        .badge-github {
+            background: #24292e;
+            color: white;
+        }
+        
+        .hero {
+            background: white;
+            border-radius: 20px;
+            padding: 60px 40px;
+            margin: 40px 0;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+            text-align: center;
+        }
+        
+        .hero h2 {
+            font-size: 2.5rem;
+            color: #2d3748;
+            margin-bottom: 20px;
+        }
+        
+        .hero p {
+            font-size: 1.25rem;
+            color: #4a5568;
+            margin-bottom: 30px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .install-box {
+            background: #2d3748;
+            color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 1.1rem;
+            margin: 30px auto;
+            max-width: 500px;
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .install-box:hover {
+            transform: scale(1.02);
+        }
+        
+        .copy-btn {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #667eea;
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: background 0.3s;
+        }
+        
+        .copy-btn:hover {
+            background: #5568d3;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        
+        .feature-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+        }
+        
+        .feature-card h3 {
+            color: #2d3748;
+            margin-bottom: 10px;
+            font-size: 1.3rem;
+        }
+        
+        .feature-card p {
+            color: #4a5568;
+        }
+        
+        .demo-section {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            margin: 40px 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        .demo-section h2 {
+            color: #2d3748;
+            margin-bottom: 30px;
+            font-size: 2rem;
+            text-align: center;
+        }
+        
+        .demo-controls {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+            padding: 15px;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .country-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            max-height: 600px;
+            overflow-y: auto;
+            padding: 10px;
+        }
+        
+        .country-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .country-card:hover {
+            transform: scale(1.05);
+        }
+        
+        .country-flag {
+            width: 50px;
+            height: 35px;
+            object-fit: cover;
+            border-radius: 5px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        
+        .country-info h4 {
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+        }
+        
+        .country-info p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+        
+        .code-example {
+            background: #2d3748;
+            color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+            overflow-x: auto;
+        }
+        
+        .code-example pre {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            line-height: 1.8;
+        }
+        
+        .code-example code {
+            color: #68d391;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            margin: 40px 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #667eea;
+            display: block;
+        }
+        
+        .stat-label {
+            color: #4a5568;
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+        
+        footer {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px 0;
+            margin-top: 60px;
+            text-align: center;
+        }
+        
+        footer p {
+            color: #4a5568;
+            margin-bottom: 15px;
+        }
+        
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0 10px;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            .hero h2 {
+                font-size: 1.8rem;
+            }
+            
+            .hero p {
+                font-size: 1rem;
+            }
+            
+            .install-box {
+                font-size: 0.9rem;
+                padding: 15px;
+            }
+        }
+        
+        .tooltip {
+            position: fixed;
+            background: rgba(0,0,0,0.9);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.85rem;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+            z-index: 1000;
+        }
+        
+        .tooltip.show {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <h1>🌍 Country Code Data</h1>
+                <div class="npm-badge">
+                    <a href="https://www.npmjs.com/package/country-code-data" class="badge badge-npm" target="_blank" rel="noopener">NPM Package</a>
+                    <a href="https://github.com/shodorsonnath/country-code-data" class="badge badge-github" target="_blank" rel="noopener">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="hero">
+            <h2>Complete Country Data for Your Applications</h2>
+            <p>Lightweight NPM package with 200+ countries including ISO codes, international phone codes, flags, currencies, capital cities, and official languages. Perfect for building country selectors, phone inputs, and international applications.</p>
+            
+            <div class="install-box" onclick="copyInstallCommand()">
+                npm install country-code-data
+                <button class="copy-btn">Copy</button>
+            </div>
+        </section>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number">200+</span>
+                <span class="stat-label">Countries</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">~48KB</span>
+                <span class="stat-label">Package Size</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">0</span>
+                <span class="stat-label">Dependencies</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">100%</span>
+                <span class="stat-label">TypeScript</span>
+            </div>
+        </div>
+
+        <section class="features">
+            <article class="feature-card">
+                <div class="feature-icon">🏴</div>
+                <h3>Country Flags</h3>
+                <p>High-quality flag images from flagcdn.com for all countries</p>
+            </article>
+            
+            <article class="feature-card">
+                <div class="feature-icon">📞</div>
+                <h3>Phone Codes</h3>
+                <p>International calling codes for every country</p>
+            </article>
+            
+            <article class="feature-card">
+                <div class="feature-icon">🔤</div>
+                <h3>ISO Codes</h3>
+                <p>ISO 3166-1 alpha-2 country codes</p>
+            </article>
+            
+            <article class="feature-card">
+                <div class="feature-icon">💰</div>
+                <h3>Currency Data</h3>
+                <p>Currency codes, names, and symbols</p>
+            </article>
+            
+            <article class="feature-card">
+                <div class="feature-icon">🏛️</div>
+                <h3>Capital Cities</h3>
+                <p>Capital city information for each country</p>
+            </article>
+            
+            <article class="feature-card">
+                <div class="feature-icon">🗣️</div>
+                <h3>Languages</h3>
+                <p>Official and widely spoken languages</p>
+            </article>
+        </section>
+
+        <section class="demo-section">
+            <h2>Interactive Demo - Search Countries</h2>
+            <div class="demo-controls">
+                <input type="text" class="search-box" id="searchInput" placeholder="Search by country name, code, or phone number...">
+            </div>
+            <div class="country-grid" id="countryGrid"></div>
+        </section>
+
+        <section class="demo-section">
+            <h2>Quick Start - Code Examples</h2>
+            <p style="text-align: center; color: #4a5568; margin-bottom: 30px;">Choose your preferred framework and start building!</p>
+            
+            <div class="code-example">
+                <pre><code>// Import the package
+const countryData = require('country-code-data');
+
+// Get all countries
+const allCountries = countryData.getAllCountries();
+
+// Get country by name
+const usa = countryData.getCountryByName('United States');
+
+// Get country by ISO code
+const bd = countryData.getCountryByShortName('BD');
+
+// Get country by phone code
+const uk = countryData.getCountryByCode('+44');
+
+// Sample output
+console.log(bd);
+/* {
+  "id": 14,
+  "name": "Bangladesh",
+  "shortName": "BD",
+  "code": "+880",
+  "flag": "https://flagcdn.com/w40/bd.png",
+  "capital": "Dhaka",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladeshi Taka",
+    "symbol": "৳"
+  },
+  "languages": ["Bengali"]
+} */</code></pre>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Country Code Data. Created by <a href="https://github.com/shodorsonnath" target="_blank" rel="noopener">Shodorson Nath</a></p>
+            <p>
+                <a href="https://www.npmjs.com/package/country-code-data" target="_blank" rel="noopener">NPM</a> |
+                <a href="https://github.com/shodorsonnath/country-code-data" target="_blank" rel="noopener">GitHub</a> |
+                <a href="https://github.com/shodorsonnath/country-code-data#readme" target="_blank" rel="noopener">Documentation</a>
+            </p>
+        </div>
+    </footer>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script>
+        // Sample country data (using a subset for demo)
+        const sampleCountries = [
+            {"id":1,"name":"Afghanistan","shortName":"AF","code":"+93","flag":"https://flagcdn.com/w40/af.png","capital":"Kabul","currency":{"code":"AFN","name":"Afghan Afghani","symbol":"؋"},"languages":["Dari","Pashto"]},
+            {"id":14,"name":"Bangladesh","shortName":"BD","code":"+880","flag":"https://flagcdn.com/w40/bd.png","capital":"Dhaka","currency":{"code":"BDT","name":"Bangladeshi Taka","symbol":"৳"},"languages":["Bengali"]},
+            {"id":32,"name":"Canada","shortName":"CA","code":"+1","flag":"https://flagcdn.com/w40/ca.png","capital":"Ottawa","currency":{"code":"CAD","name":"Canadian Dollar","symbol":"$"},"languages":["English","French"]},
+            {"id":64,"name":"Germany","shortName":"DE","code":"+49","flag":"https://flagcdn.com/w40/de.png","capital":"Berlin","currency":{"code":"EUR","name":"Euro","symbol":"€"},"languages":["German"]},
+            {"id":76,"name":"India","shortName":"IN","code":"+91","flag":"https://flagcdn.com/w40/in.png","capital":"New Delhi","currency":{"code":"INR","name":"Indian Rupee","symbol":"₹"},"languages":["Hindi","English"]},
+            {"id":84,"name":"Japan","shortName":"JP","code":"+81","flag":"https://flagcdn.com/w40/jp.png","capital":"Tokyo","currency":{"code":"JPY","name":"Japanese Yen","symbol":"¥"},"languages":["Japanese"]},
+            {"id":186,"name":"United Kingdom","shortName":"GB","code":"+44","flag":"https://flagcdn.com/w40/gb.png","capital":"London","currency":{"code":"GBP","name":"British Pound Sterling","symbol":"£"},"languages":["English"]},
+            {"id":187,"name":"United States","shortName":"US","code":"+1","flag":"https://flagcdn.com/w40/us.png","capital":"Washington, D.C.","currency":{"code":"USD","name":"United States Dollar","symbol":"$"},"languages":["English"]},
+            {"id":60,"name":"France","shortName":"FR","code":"+33","flag":"https://flagcdn.com/w40/fr.png","capital":"Paris","currency":{"code":"EUR","name":"Euro","symbol":"€"},"languages":["French"]},
+            {"id":24,"name":"Brazil","shortName":"BR","code":"+55","flag":"https://flagcdn.com/w40/br.png","capital":"Brasília","currency":{"code":"BRL","name":"Brazilian Real","symbol":"R$"},"languages":["Portuguese"]},
+            {"id":36,"name":"China","shortName":"CN","code":"+86","flag":"https://flagcdn.com/w40/cn.png","capital":"Beijing","currency":{"code":"CNY","name":"Chinese Yuan","symbol":"¥"},"languages":["Standard Chinese"]},
+            {"id":9,"name":"Australia","shortName":"AU","code":"+61","flag":"https://flagcdn.com/w40/au.png","capital":"Canberra","currency":{"code":"AUD","name":"Australian Dollar","symbol":"$"},"languages":["English"]}
+        ];
+
+        let allCountries = [...sampleCountries];
+
+        function displayCountries(countries) {
+            const grid = document.getElementById('countryGrid');
+            grid.innerHTML = '';
+            
+            countries.forEach(country => {
+                const card = document.createElement('div');
+                card.className = 'country-card';
+                card.innerHTML = `
+                    <img src="${country.flag}" alt="${country.name} flag" class="country-flag" loading="lazy">
+                    <div class="country-info">
+                        <h4>${country.name}</h4>
+                        <p>${country.code} • ${country.shortName}</p>
+                    </div>
+                `;
+                card.addEventListener('click', () => showCountryDetails(country));
+                grid.appendChild(card);
+            });
+        }
+
+        function showCountryDetails(country) {
+            alert(`${country.name}\n\nCapital: ${country.capital}\nPhone Code: ${country.code}\nISO Code: ${country.shortName}\nCurrency: ${country.currency.name} (${country.currency.symbol})\nLanguages: ${country.languages.join(', ')}`);
+        }
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filtered = allCountries.filter(country => 
+                country.name.toLowerCase().includes(searchTerm) ||
+                country.shortName.toLowerCase().includes(searchTerm) ||
+                country.code.includes(searchTerm) ||
+                country.capital.toLowerCase().includes(searchTerm)
+            );
+            displayCountries(filtered);
+        });
+
+        function copyInstallCommand() {
+            const command = 'npm install country-code-data';
+            navigator.clipboard.writeText(command).then(() => {
+                const tooltip = document.getElementById('tooltip');
+                tooltip.textContent = 'Copied!';
+                tooltip.classList.add('show');
+                setTimeout(() => tooltip.classList.remove('show'), 2000);
+            });
+        }
+
+        // Initialize
+        displayCountries(allCountries);
+    </script>
+</body>
+</html>

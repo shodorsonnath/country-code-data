@@ -1,5 +1,11 @@
 # 🌍 Country Code Data - Complete Country List & ISO Codes NPM Package
 
+[![npm version](https://img.shields.io/npm/v/country-code-data.svg)](https://www.npmjs.com/package/country-code-data)
+[![npm downloads](https://img.shields.io/npm/dm/country-code-data.svg)](https://www.npmjs.com/package/country-code-data)
+
+**[📖 View Interactive Demo & Documentation](https://shodorsonnath.github.io/country-code-data/)**
+
+<!-- rest of your README -->
 
 **country-code-data** is a lightweight npm package providing a complete dataset of all countries. Includes country names, ISO codes, international phone codes, capital cities, currencies, official languages, and flag images. Ideal for building forms, country selectors, phone input fields, or any international application.
 
