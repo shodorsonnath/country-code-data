@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/country-code-data.svg)](https://www.npmjs.com/package/country-code-data)
 [![npm downloads](https://img.shields.io/npm/dm/country-code-data.svg?cacheSeconds=86400)](https://www.npmjs.com/package/country-code-data)
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 
 **[📖 View Interactive Demo & Documentation](https://shodorsonnath.github.io/country-code-data/)**
