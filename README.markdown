@@ -15,16 +15,15 @@
 
 ## 🚀 Features of Country Code Data
 
-- ✅ 200+ countries included  
-- ✅ ISO 3166 country codes  
-- ✅ International calling / phone codes  
-- ✅ Country flags via reliable [flagcdn.com](https://flagcdn.com)  
-- ✅ Capital city name for each country  
-- ✅ Currency codes, names, and symbols included  
-- ✅ Official languages for each country  
-- ✅ Simple JSON structure — no dependencies  
-- ✅ Works in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Next.js**, and **Vue**
-
+- [x] 200+ countries included
+- [x] ISO 3166 country codes
+- [x] International calling / phone codes
+- [x] Country flags via reliable [flagcdn.com](https://flagcdn.com)
+- [x] Capital city name for each country
+- [x] Currency codes, names, and symbols included
+- [x] Official languages for each country
+- [x] Simple JSON structure — no dependencies
+- [x] Works in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Next.js**, and **Vue**
 
 ---
 
