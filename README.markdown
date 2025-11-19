@@ -32,11 +32,9 @@
 Install the package using **npm** or **Yarn**:
 
 ```bash
-# Using npm
 npm install country-code-data
 ```
 ```bash
-# Using Yarn
 yarn add country-code-data
 ```
 
