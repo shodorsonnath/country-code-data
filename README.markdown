@@ -29,10 +29,14 @@
 
 ## 📦 Install Country Code Data
 
-Install the package using npm:
+Install the package using **npm** or **Yarn**:
 
 ```bash
+# Using npm
 npm install country-code-data
+
+# Using Yarn
+yarn add country-code-data
 ```
 
 ---
