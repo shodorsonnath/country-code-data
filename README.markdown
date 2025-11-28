@@ -9,7 +9,7 @@
 
 <!-- rest of your README -->
 
-**country-code-data** is a lightweight npm package providing a complete dataset of all countries. Includes country names, ISO codes, international phone codes, capital cities, currencies, official languages, and flag images. Ideal for building forms, country selectors, phone input fields, or any international application.
+**country-code-data** is a lightweight npm package offering complete country information, including names, ISO codes, phone codes, capitals, currencies, languages, and flag images. Perfect for country selectors, phone inputs, forms, and global apps.
 
 ---
 
