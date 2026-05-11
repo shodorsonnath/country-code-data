@@ -34,6 +34,8 @@ Install the package using **npm** or **Yarn**:
 ```bash
 npm install country-code-data
 ```
+or
+
 ```bash
 yarn add country-code-data
 ```
@@ -51,7 +53,7 @@ console.log(allCountries);
 
 // Get country by ID
 const countryById = countryData.getCountryById(1);
-console.log(countryById); // Afghanistan
+console.log(countryById); 
 
 // Get country by name
 const countryByName = countryData.getCountryByName('Brazil');
@@ -63,7 +65,7 @@ console.log(countryByShortName);
 
 // Get country by code
 const countryByCode = countryData.getCountryByCode('+44');
-console.log(countryByCode); // United Kingdom
+console.log(countryByCode);
 ```
 
 ---
@@ -144,6 +146,6 @@ Each country entry looks like this:
 
 ---
 
-## License
+## 🪪 License
 
-MIT
+MIT © Shodorson

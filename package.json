@@ -1,65 +1,54 @@
 {
-  "name": "country-code-data",
-  "version": "1.1.17",
-  "description": "A lightweight npm package with complete country data, including country names, ISO codes, phone codes, capitals, currencies, official languages, and flags. Perfect for country dropdowns, phone input selectors, forms, APIs, and international applications.",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "name": "bangladesh-geo-data",
+  "version": "1.0.0",
+  "description": "Complete Bangladesh geographical data - divisions, districts, and upazilas with Bengali names and utility functions. Perfect for location selectors, forms, and Bangladeshi applications.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "jest"
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "country",
-    "country code",
-    "country list",
-    "country data",
-    "country dropdown",
-    "phone code",
-    "iso code",
-    "npm package",
-    "country-code-data",
-    "international code",
-    "iso code",
-    "country json",
-    "flag data",
-    "world country data",
-    "international calling code",
-    "country info",
-    "country selector",
-    "country api",
-    "country data npm",
-    "country-code npm",
-    "country list json",
-    "iso country list",
-    "iso 3166-1 alpha-2",
-    "iso 3166-1 alpha-3",
-    "currency",
-    "currency code",
-    "currency symbol",
-    "currency data",
-    "country currency",
-    "iso currency code",
-    "currency info",
-    "currency json",
-    "official languages",
-    "capital",
-    "capital city",
-    "country capital"
+    "bangladesh",
+    "bd",
+    "bangladesh-geo-data",
+    "bangladesh-districts",
+    "bangladesh-upazilas",
+    "bangladesh-divisions",
+    "bd-geo",
+    "bd-location",
+    "bd-district-list",
+    "bd-upazila-list",
+    "bd-division-list",
+    "bangladesh-location-data",
+    "bangladesh-geo-json",
+    "district-thana",
+    "upazila-list",
+    "bangladesh-subdistricts",
+    "bd-thana",
+    "bangla-location",
+    "location-selector",
+    "bangladesh-address",
+    "bd-address-data"
   ],
   "author": {
-    "name": "Shodorson Nath",
+    "name": "Shodorson",
     "email": "shodorsonnath@gmail.com",
     "url": "https://github.com/shodorsonnath"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shodorsonnath/country-code-data.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shodorsonnath/country-code-data/issues"
-  },
-  "homepage": "https://shodorsonnath.github.io/country-code-data",
+  "homepage": "https://github.com/shodorsonnath/bangladesh-geo-data#readme",
   "devDependencies": {
-    "jest": "^30.2.0"
-  }
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
 }
