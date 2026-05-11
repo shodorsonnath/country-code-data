@@ -1,6 +1,6 @@
 {
   "name": "bangladesh-geo-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete Bangladesh geographical data - divisions, districts, and upazilas with Bengali names and utility functions. Perfect for location selectors, forms, and Bangladeshi applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
