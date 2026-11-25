@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shodorsonnath.github.io/country-code-data/sitemap.xml
